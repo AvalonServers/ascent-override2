@@ -1,0 +1,14 @@
+{
+  "_comment": "Containers",
+  "ironchest.container.iron_chest": "\u00a7b鐵箱",
+  "ironchest.container.gold_chest": "\u00a7b金箱",
+  "ironchest.container.diamond_chest": "\u00a7b鑽石箱",
+  "ironchest.container.copper_chest": "\u00a7b銅箱",
+  "ironchest.container.silver_chest": "\u00a7b銀箱",
+  "ironchest.container.crystal_chest": "\u00a7b水晶箱",
+  "ironchest.container.obsidian_chest": "\u00a7b黑曜石箱",
+  "ironchest.container.dirt_chest": "\u00a7b泥箱子9000!",
+  
+  "_comment": "Item Groups",
+  "itemGroup.ironchest": "\u00a7bIron Chests"
+}

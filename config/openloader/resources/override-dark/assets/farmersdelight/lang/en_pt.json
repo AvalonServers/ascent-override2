@@ -1,0 +1,11 @@
+{
+  "itemGroup.farmersdelight": "\u00a7bFarmer's Delight",
+  "itemGroup.farmersdelight.main": "\u00a7bFarmer's Delight",
+
+  "farmersdelight.container.cooking_pot": "\u00a7bPot o' Grub",
+  "farmersdelight.container.cooking_pot.served_on": "\u00a7bGrab yerself a: %s",
+  "farmersdelight.container.cooking_pot.not_heated": "\u00a7bYe hafta fire it up first",
+  "farmersdelight.container.cooking_pot.heated": "\u00a7bAll fired up",
+  "farmersdelight.container.basket": "\u00a7bBasket",
+  "farmersdelight.container.pantry": "\u00a7bCabinet"
+}

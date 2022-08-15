@@ -1,0 +1,12 @@
+{
+    "type": "origins:modify_damage_taken",
+    "damage_condition": {
+        "type": "origins:fire"
+    },
+    "modifiers": {
+        "operation": "multiply_base",
+        "value": 1.5
+    },
+    "name": "Heat Cripple",
+    "description": "You take extra damage from fire due to your body's need for cooling"
+}

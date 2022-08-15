@@ -1,0 +1,8 @@
+{
+  "_comment": "Recipe Categories",
+  "gui.jei.category.smelting.experience": "\u00a7b%s \u00a7bEXP",
+  "gui.jei.category.fuel.smeltCount.single": "\u00a7b1回精錬分",
+  "gui.jei.category.fuel.smeltCount": "\u00a7b%s\u00a7b回精錬分",
+  "gui.jei.category.brewing.steps": "\u00a7b第%s\u00a7b段階",
+  "gui.jei.category.itemInformation": "\u00a7b説明"
+}

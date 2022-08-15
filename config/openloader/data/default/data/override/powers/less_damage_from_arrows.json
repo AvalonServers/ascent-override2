@@ -1,0 +1,13 @@
+{
+    "type": "origins:modify_damage_taken",
+    "damage_condition": {
+        "type": "origins:projectile",
+        "projectile": "minecraft:arrow"
+    },
+    "modifiers": {
+        "operation": "addition",
+        "value": -2
+    },
+    "name": "Robotic Body",
+    "description": "Your robotic body gives you several enhancements. This includes immunity to wither, hunger, and poison. You don't take fall damage, you jump higher while sprinting, and you take less damage from arrows."
+}

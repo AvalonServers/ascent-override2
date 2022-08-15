@@ -1,0 +1,11 @@
+{
+  "itemGroup.farmersdelight": "\u00a7bFarmer's Delight",
+  "itemGroup.farmersdelight.main": "\u00a7bFarmer's Delight",
+
+  "farmersdelight.container.cooking_pot": "\u00a7bCooking Pot",
+  "farmersdelight.container.cooking_pot.served_on": "\u00a7bServed on: %s",
+  "farmersdelight.container.cooking_pot.not_heated": "\u00a7bNeeds heat from below",
+  "farmersdelight.container.cooking_pot.heated": "\u00a7bHeated",
+  "farmersdelight.container.basket": "\u00a7bBasket",
+  "farmersdelight.container.pantry": "\u00a7bPantry"
+}

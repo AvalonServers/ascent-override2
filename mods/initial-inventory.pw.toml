@@ -1,0 +1,13 @@
+name = "Initial Inventory"
+filename = "InitialInventory-fabric-1.18.2-6.0.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "edbbcd589bfceaac4c843bc6b59c69c1f8619685"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3757616
+project-id = 253230

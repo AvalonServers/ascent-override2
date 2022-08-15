@@ -1,0 +1,9 @@
+{
+  "_comment": "Recipe Categories",
+  "gui.jei.category.smelting.experience": "\u00a7b%s \u00a7bXP",
+  "gui.jei.category.smelting.time.seconds": "\u00a7b%s\u00a7bs",
+  "gui.jei.category.fuel.smeltCount.single": "\u00a7bPrzetapia: 1",
+  "gui.jei.category.fuel.smeltCount": "\u00a7bPrzetapia: %s",
+  "gui.jei.category.brewing.steps": "\u00a7bKroków: %s",
+  "gui.jei.category.itemInformation": "\u00a7bInformacja"
+}

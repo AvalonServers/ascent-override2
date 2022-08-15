@@ -1,0 +1,1564 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/MouseTweaks.cfg"
+hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
+
+[[files]]
+file = "config/additional-additions-config.json"
+hash = "55512d043a313861d1aadd8649c454582283b3d480ce8adb00c4a0fdd6bed89d"
+
+[[files]]
+file = "config/appliedenergistics2/client.json"
+hash = "8e1abdf2a5ca581b487476ee413c4aaeb73b3173a2eb9512d41443cab9db5bbc"
+
+[[files]]
+file = "config/appliedenergistics2/common.json"
+hash = "dacf0c5e2ba774bf0f60c8ad4a16a34db738bf4a8977f37bdbf2b6b9a496cc44"
+
+[[files]]
+file = "config/artis-recrafted.json5"
+hash = "257c1be96ae69f4b01c2c69bdb6d78605f59175819fb007d0bf245bf48444c4a"
+
+[[files]]
+file = "config/attributefix.json"
+hash = "9daac623b33ef082967773799c4df208438dbd43248500276e37d2f374ea3acf"
+
+[[files]]
+file = "config/authme.json5"
+hash = "abc3e0e4c6c3120dcbc22fecfae1966d0a040aa9464913fd2ff3aa5b1f606023"
+
+[[files]]
+file = "config/bcc.json"
+hash = "d63f06b4ac5dc01b4bdea415b428586460b6c8812e2504447d004841fbef45b5"
+
+[[files]]
+file = "config/botania-client.json5"
+hash = "3af2bcf73d631d6f0ce4486193d75a57f7843c7e6bf03c53397e36e6d0789ee8"
+
+[[files]]
+file = "config/botania-common.json5"
+hash = "94ba8cc87b9ecbb794f1731979f31f35bf04808e3fa26eec6de626375f6af7a2"
+
+[[files]]
+file = "config/builtinservers.json"
+hash = "e5340b90eb76b9a1daa3e9bdb23f740e7b7bb5b652905f05a2e5b8cb3f8ca255"
+
+[[files]]
+file = "config/clienttweaks.toml"
+hash = "ddef033d092be5955ff97fd548e51d4988ee185f23274c8274ee03203412361b"
+
+[[files]]
+file = "config/computercraft-client.toml"
+hash = "20772df2e321ec660a746f6d1a11395b62679c6301c84bacacb2f51ab02a9db1"
+
+[[files]]
+file = "config/continuity.json"
+hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
+
+[[files]]
+file = "config/couplings.toml"
+hash = "3ef046267c814eadadcdd3e065251fb682a530f62321bbb53588ea94b96f4371"
+
+[[files]]
+file = "config/create-client.toml"
+hash = "4df973247fe88a6d0c41aa0b0d501baddabee8fd927cec62e8ec41a5dd14a4d4"
+
+[[files]]
+file = "config/create-common.toml"
+hash = "97cc8d8e0f1008e479072b65646078eb569b49d1bf91d9cc2a1f961ff6ea8802"
+
+[[files]]
+file = "config/customsplashscreen.json5"
+hash = "1713001a2849bfddc240737434256b6181714897825493f739d990d67a62c69c"
+
+[[files]]
+file = "config/customsplashscreen/background.png"
+hash = "67d20ac3afe9538286de7c2a44f6bea546bdccf116b5246d0f5d6ce2d9a8b0a0"
+
+[[files]]
+file = "config/customsplashscreen/mojangstudios.png"
+hash = "27b2ea2946ca5b00841ce7d1813b42dfb7e36b12ad50c7c9bea09053ac226cf3"
+
+[[files]]
+file = "config/customsplashscreen/mojank.png"
+hash = "7e4897e9f11f9c44aaafdf6c5890803ff5e2908806748f89f1ac596e4e612f42"
+
+[[files]]
+file = "config/customsplashscreen/progressbar.png"
+hash = "e2e0555e30fd677e05570551f36d3a95fd844dcadc62b15e4f901c3442a5e3c7"
+
+[[files]]
+file = "config/customsplashscreen/progressbar_background.png"
+hash = "6e2fa0adee9638b3e8f36e75ad048f0abb0de2d06b591961c6b2aff943fd46f2"
+
+[[files]]
+file = "config/de/mari_023/ae2wtlib.json5"
+hash = "7e11a218f0d09f7c0a0d8c52b17abf7c0614173efa69adc17576f5b60ead7853"
+
+[[files]]
+file = "config/dustrial_decor.json"
+hash = "03b3db2e605956f190f25cf43e414cc322077789713688cb2b41d20b0af95a4d"
+
+[[files]]
+file = "config/dynamicfps.toml"
+hash = "f5474c5f2aa9e04cc88211eb6c0b7c4d3835814ba7047252edf624355862caa6"
+
+[[files]]
+file = "config/expandedstorage.json"
+hash = "8587f97a85e14ffab6233b7d6efed398935b82dbe32e71a79ff7d45dd130d6e7"
+
+[[files]]
+file = "config/extragenerators.json"
+hash = "fe765b59314e50dbcd1865be149afd04d951ef301b76341cde266c40305884c0"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "75bff326a7f7c6b49d26d4bb1dc400c26b106c456a262575740566f417538703"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "b95fd739ebab8995117722aaac90aab6bea1aeec3a29b5170e332a69dc6408b6"
+
+[[files]]
+file = "config/flywheel.json"
+hash = "2672a64e4b68c9dbd5ef35e592df846103e6cc15f9f042c2c5280116011a9c1b"
+
+[[files]]
+file = "config/ftbbackups2.json"
+hash = "a6407d963ff9b6cd832ff22cc9d160c392d7e84ab9086a564d74b9f9bf4d03a2"
+
+[[files]]
+file = "config/ftbultimine.snbt"
+hash = "047dd4b91fc96f6936723c9672e2eada0449547f16de10585f6677635bc4e30c"
+
+[[files]]
+file = "config/immersive_weathering.json5"
+hash = "78feafc90e9cf88686dfb34ee0ec3bbe3e0ae47ebcf9ec06b17c1b5092ff91e2"
+
+[[files]]
+file = "config/indium-renderer.properties"
+hash = "452a321363bf5c1080b29f8ec6c13d5e6d12ee2946b7906a87fcd07bf8823cee"
+
+[[files]]
+file = "config/indrev/cables.json"
+hash = "9183a2eadef32624ee9a8ed193ac1b61d3b2ce0511f6e0c182f3a2d9bb170a83"
+
+[[files]]
+file = "config/indrev/generators.json"
+hash = "7e76e3fd7ff40190b24aa76efdea7afc315a87e426ac8d7ce0e0f42a1f4e52c6"
+
+[[files]]
+file = "config/indrev/hud.json"
+hash = "273c14e99b9b938007693c86b53cd7d697080b38705b1962cfe38104656bcf2d"
+
+[[files]]
+file = "config/indrev/machines.json"
+hash = "bcb414cb82562fdb1a7f9568b2fdd5ef0bb4ebc59694ce22702960633d3c3c47"
+
+[[files]]
+file = "config/indrev/mining_rig_config.json"
+hash = "c9a0a12c14e6d0b9c88d9ed8aa5586ee41435408d814dbf081ae207484b1dc5b"
+
+[[files]]
+file = "config/indrev/oregen.json"
+hash = "24967e348a997f897f49757afec9ccdb4c0ae972af80e7cb20ad8a6719eed9ac"
+
+[[files]]
+file = "config/indrev/upgrades.json"
+hash = "ebbb00fcd5f6a560a60c43c86b71a49a035f154799b6135c1627f14d5f5f72b5"
+
+[[files]]
+file = "config/inventorysorter/blacklist.json5"
+hash = "274dcf155e9646094d42f860442f2c29f627145c90ad01d6ea10833915552687"
+
+[[files]]
+file = "config/inventorysorter/config.json5"
+hash = "3f6a69f6b0c8bf3b6c9e19964666ebd0e45bc5964c072d3ff1841e8a7ea0973a"
+
+[[files]]
+file = "config/iris.properties"
+hash = "87d42dc2d91764af9333f299c34750c59ba9b79370ab6d577557d4fa34729b83"
+
+[[files]]
+file = "config/libgui.json5"
+hash = "6814fc05aa8d6664712b056cfd6cb51cb4bafeabe3f274b9cf5e19e27eff406d"
+
+[[files]]
+file = "config/litematica.json"
+hash = "86969a14ea6fe244a1b7f070c948498f6e17da042e50d490faeb4cbaf966245d"
+
+[[files]]
+file = "config/litematica/litematica_new_world.json"
+hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
+
+[[files]]
+file = "config/litematica/litematica_new_world_dim_minecraft_overworld.json"
+hash = "fc69a2c7ff1ec5b01546a99c5ea8566f9a095302477b7ba950409df0a64c60ff"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "4f5890cb55b35047fdb433efa30060827aa9415e0850220f85b2c8ad663d6722"
+
+[[files]]
+file = "config/magna.json"
+hash = "41b63f8dd471047e1e5d4ffdc3ef2802f7a766c8408b59be050b529576d404e2"
+
+[[files]]
+file = "config/malilib.json"
+hash = "a4976d6a5206a02939ee0ad164b06eb0bd0530dc5ffff42c9372327d1f5e5b64"
+
+[[files]]
+file = "config/modern_industrialization.toml"
+hash = "f6448406c67434e70cf05a20abb81d231683915a85eb31d7d275d4638e1c9877"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "503f96151dab202359895d267084c5ca81604cf9a3455446c20a5c0c69ec7cdb"
+
+[[files]]
+file = "config/noindium.json"
+hash = "ed093ed833011b0f97e7b6d5054def07d6d76e67e9f0ae696a4471d77abee112"
+
+[[files]]
+file = "config/openloader/data/default/data/origins/origin_layers/origin.json"
+hash = "4e32cffb85019071cfaf99e0c4cda6f431ad1c19021c86b8f1b3f19cd97234d8"
+
+[[files]]
+file = "config/openloader/data/default/data/override/origins/android.json"
+hash = "6fbeb1fd15b171b9c2fb3dc0d3dddd65bb3b46a95186ff61f76654fc2720a4d3"
+
+[[files]]
+file = "config/openloader/data/default/data/override/powers/fall_immunity.json"
+hash = "88ee1d6d7f5d695df147b2fbdc3b402f8da210bca184857c047c5c6c542e8f83"
+
+[[files]]
+file = "config/openloader/data/default/data/override/powers/fire_resistance.json"
+hash = "479be9673da26e8c33655fd2a836f95100315d4a12b1095cabe5471db62d5971"
+
+[[files]]
+file = "config/openloader/data/default/data/override/powers/immune_to_effects.json"
+hash = "f5f27b3cad5aea0e54670359a65bbf21d5a67b49b7f9adf4d01b28b463e30ba2"
+
+[[files]]
+file = "config/openloader/data/default/data/override/powers/less_damage_from_arrows.json"
+hash = "19711b7126f773eed331e0c9b4a2b8cecabc0faab76b9e4eeb6d752607b5a339"
+
+[[files]]
+file = "config/openloader/data/default/data/override/powers/more_damage_from_fire.json"
+hash = "728bbfd70d70cd4fb520c9d9724458d0a39b8cd65dc616d690eda271d88e6fed"
+
+[[files]]
+file = "config/openloader/data/default/data/override/powers/speed_boost.json"
+hash = "7ece8d8c7224d08f061a617e9f9245b51f3dfe5b60f3b3ffc44ecfd0f13b61c1"
+
+[[files]]
+file = "config/openloader/data/default/data/override/powers/sprint_jump.json"
+hash = "66440891400ce9ea675cb3cb5c65d47dd2a7891b2a95d94e9c81faa75dc8c166"
+
+[[files]]
+file = "config/openloader/data/default/pack.mcmeta"
+hash = "654b7095d64246be630dafdf51da67f05beb5b3b0a686d5be46151354ad4832d"
+
+[[files]]
+file = "config/openloader/data/default/pack.png"
+hash = "cc08b4a664bd80b8de39a7cf70622154e96c1f3155da6af07eb77dd243deb07f"
+
+[[files]]
+file = "config/openloader/resources/override-base/assets/.mcassetsroot"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/openloader/resources/override-base/assets/inventorysorter/textures/gui/button.png"
+hash = "6527091cc2901fc3019d88f811d8ae0084064e3976b72eff62291776a81bfee2"
+
+[[files]]
+file = "config/openloader/resources/override-base/assets/minecraft/lang/en_us.lang"
+hash = "a5b69eca54a596a62143bf04b35df4f275cdf71ff775e790de3ad37e120475f5"
+
+[[files]]
+file = "config/openloader/resources/override-base/assets/minecraft/texts/credits.txt"
+hash = "c61043732eb3c5341d07e72b8a383e0268fae4316cc18a419772c75babb12a51"
+
+[[files]]
+file = "config/openloader/resources/override-base/assets/minecraft/texts/end.txt"
+hash = "f7703cf2349d2d12816639bbaa83050d8d0609d4ab0d62f96fe5ccfe4d07a654"
+
+[[files]]
+file = "config/openloader/resources/override-base/assets/minecraft/texts/splashes.txt"
+hash = "7eba8bb4acec9eb5a54681cd07a83e3a85a8a76a25d39a696bf4a13f45eb2da7"
+
+[[files]]
+file = "config/openloader/resources/override-base/assets/minecraft/textures/gui/options_background.png"
+hash = "df191065ec8761a0244cd3c3d2f038294eaa0af43a2c85fe12ea36128eeb0acb"
+
+[[files]]
+file = "config/openloader/resources/override-base/assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "fd5d5848cf65726c88f3cff08b1ae2d9cddd66e66cd6e39b3ac2c7dd861ddd0a"
+
+[[files]]
+file = "config/openloader/resources/override-base/assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "4a17ae927aab6c7dad3a6c480241d62d150a1dcda466b95ae0e01f8a69cf75bc"
+
+[[files]]
+file = "config/openloader/resources/override-base/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "babbf5de78e7b9e52a3d9b6fb95435deebe8ffdbd8d72c03543980b5e723c1d4"
+
+[[files]]
+file = "config/openloader/resources/override-base/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "8ca2313e5b79d6ade6ae91d3126ca92b9d987e649c92bb0abcac96919dcfed7a"
+
+[[files]]
+file = "config/openloader/resources/override-base/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "e70b217409c10fedc3b8a9f6b152180f307b178464b2be23a4efb4b6f75ed944"
+
+[[files]]
+file = "config/openloader/resources/override-base/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "c45893f35836bac75ccb175a4e368392f63fad5bc71744d8984d451d02d90e0e"
+
+[[files]]
+file = "config/openloader/resources/override-base/assets/minecraft/textures/gui/title/edition.png"
+hash = "703a4dd25177657b8ce67fe076af897e4675aa08c3b580d8bcd589a04df1f7de"
+
+[[files]]
+file = "config/openloader/resources/override-base/assets/minecraft/textures/gui/title/minecraft.png"
+hash = "3bc68dbdabf732675b6493ed86ae1126ec8777a7f4216a9396f4dd8ab423eb8e"
+
+[[files]]
+file = "config/openloader/resources/override-base/assets/minecraft/textures/gui/widgets.png"
+hash = "f2b0904073d6c71520c13a14a9b2b4298b305682dd5a8e49e27dacf1f2660343"
+
+[[files]]
+file = "config/openloader/resources/override-base/assets/minecraft/textures/painting/paintings_kristoffer_zetterstrand.png"
+hash = "676dd8fe68173a0590d332ecd6d3368d1bd0b67c08c3db9755a31f095f95551b"
+
+[[files]]
+file = "config/openloader/resources/override-base/assets/patchouli/textures/gui/inventory_button.png"
+hash = "333d3c91c63b9b6fae6965b7cd5269df21fadc969917148f103778b522ea6c97"
+
+[[files]]
+file = "config/openloader/resources/override-base/assets/trashslot/textures/gui/slot.png"
+hash = "6f26aebe22f67eb67cba086fcb70e19be38fb2bc820f09aaf2c61579beac7605"
+
+[[files]]
+file = "config/openloader/resources/override-base/assets/trashslot/textures/gui/slot2.png"
+hash = "5581dd8f7a5d276455e035452e46f82ad711b07ad2defab366966bd5870b909e"
+
+[[files]]
+file = "config/openloader/resources/override-base/assets/trashslot/textures/gui/trashcan.png"
+hash = "a15d5f4076d52a4d197a3674932323f5fa3c805dcc51ba1eeadcf184a33d3933"
+
+[[files]]
+file = "config/openloader/resources/override-base/pack.mcmeta"
+hash = "a09acd8e7fac3d96c0331fe62e7e7f565606d447dca66b8f8e81680cfa188f60"
+
+[[files]]
+file = "config/openloader/resources/override-base/pack.png"
+hash = "cc08b4a664bd80b8de39a7cf70622154e96c1f3155da6af07eb77dd243deb07f"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/cloth-config2/LICENSE.md"
+hash = "c084d3d0560c3731716fc2f2d7993647953810bba5d880e2aa2290d1c66d18d6"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/cloth-config2/README.md"
+hash = "c2fc9f5fd65cedf935a0cabbc985d6640dafe6bf0d1802728045bb2c1a2cc1c2"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/cloth-config2/textures/gui/cloth_config.png"
+hash = "b05bef6798dcb0b2e7ac50250efe59798e20fd923de0144a835447100394b2b5"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/fabric/LICENSE"
+hash = "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/fabric/README.md"
+hash = "4b8967b01fd360f674e1f919efcc5156e887f429cec215813f27a2f6959b1e8d"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/fabric/textures/gui/creative_buttons.png"
+hash = "0e5586de36089f2b76153ccbd17a7028bb90e8db44b48b724f6796bc2d28008d"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/farmersdelight/LICENSE"
+hash = "3ff766f3ab1fd7dad26e8f176c5e4af6bcbf8bb1208d26f573d77b48b13188ac"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/farmersdelight/README.md"
+hash = "ec811310fd6d7a5c3dcd5d5e2963c0a4c11d2a82c04f0313b8609060904e21f9"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/farmersdelight/lang/de_de.json"
+hash = "5ace8a7fd76b2cd5f09cfecae95f80d384e51de99202e2dc7ede4bf228d96c0a"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/farmersdelight/lang/en_pt.json"
+hash = "71ac130e7d7f8057bb990f88c9f07c2c828294404f51f7720b48656f7d4da372"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/farmersdelight/lang/en_us.json"
+hash = "4b7b64a3c266e873de36dc47776fe8b234c78357321fcb81b9781106f12c34e6"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/farmersdelight/lang/es_ar.json"
+hash = "f05fa22db95e7c90d3b14632eed4d5706c2949f5faeedce94e0854d02c18e326"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/farmersdelight/lang/es_cl.json"
+hash = "f05fa22db95e7c90d3b14632eed4d5706c2949f5faeedce94e0854d02c18e326"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/farmersdelight/lang/es_ec.json"
+hash = "f05fa22db95e7c90d3b14632eed4d5706c2949f5faeedce94e0854d02c18e326"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/farmersdelight/lang/es_es.json"
+hash = "f05fa22db95e7c90d3b14632eed4d5706c2949f5faeedce94e0854d02c18e326"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/farmersdelight/lang/es_mx.json"
+hash = "f05fa22db95e7c90d3b14632eed4d5706c2949f5faeedce94e0854d02c18e326"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/farmersdelight/lang/es_uy.json"
+hash = "f05fa22db95e7c90d3b14632eed4d5706c2949f5faeedce94e0854d02c18e326"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/farmersdelight/lang/es_ve.json"
+hash = "f05fa22db95e7c90d3b14632eed4d5706c2949f5faeedce94e0854d02c18e326"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/farmersdelight/lang/fi_fi.json"
+hash = "dbe4f1caecfb815d0c97f03191192431ed6ebe46dfa6fab9b1f6d922a16ce046"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/farmersdelight/lang/fr_fr.json"
+hash = "adcb22ebfa81d77ce442e37a394c3919112c9d4e5cef20b69b36a7fafefb589f"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/farmersdelight/lang/id_id.json"
+hash = "7adf9e891b153e6a80b2895e775b973c52447ece4d4fcb43c6d1cd09e7e3655a"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/farmersdelight/lang/it_it.json"
+hash = "849827ce7d24b8b04258b5f4e1fe40270fec746eb518c5cc7f92a7f3c11df4e6"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/farmersdelight/lang/ja_jp.json"
+hash = "0d5a3cc68b52011585650ef096cffdb84038bf54ba45b072b1cd7bf3daa3cb73"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/farmersdelight/lang/ko_kr.json"
+hash = "a92cd96da7770ae914defdf48e6b8a6f0ccf5ee23e9453b3790ce45e2c9245fd"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/farmersdelight/lang/pl_pl.json"
+hash = "edc3030965cbc79a484b2f6301417bab3383e84bb10243b338c98d3a97416819"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/farmersdelight/lang/pt_br.json"
+hash = "aa66d6e08d0b8422a11001287d2a1cd0d6cc46a6c50c20c75836972645ff7e5b"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/farmersdelight/lang/pt_pt.json"
+hash = "6cbc89fd169614ad0bcc617c5f784eb7b229acf7a9a536ac7374083f71074005"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/farmersdelight/lang/ru_ru.json"
+hash = "8fb18986fae0fc714c42f825c1745cc76a9950e592381d360fc6545cfa0cd15c"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/farmersdelight/lang/tr_tr.json"
+hash = "cbc5850135f65c3f6224b61459c1afdddeb232e450038588225ad33343f1b9ac"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/farmersdelight/lang/zh_cn.json"
+hash = "25d7444c083a760a15af2f6e54fbc1c7e8df1b34e781fba0d75c0f83ece08463"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/farmersdelight/lang/zh_tw.json"
+hash = "a468f8be26caa62ea29a2f8e1533f46dcebac2838bc4da2a86692d0161d3e172"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/farmersdelight/textures/gui/cooking_pot.png"
+hash = "ea01642da0789d0c581fd149e466692176428131c04e8e6e7d4eccf08153e5c9"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/farmersdelight/textures/gui/jei/cutting_board.png"
+hash = "9bb5cec0b07acb3aae43e0fb1e42f86d935f68127e847d2a9370e86ebb3ec613"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/farmersdelight/textures/gui/jei/decomposition.png"
+hash = "8017e16c49bb15df76fb8147a59fbaf528e2e6ed6a505d41d7602334a9388dee"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/farmersdelight/textures/item/empty_container_slot_bowl.png"
+hash = "50d2a9e30f92da6b1b391fafb93fa46dfd7af7483f109c1ee5f6253f5c95c921"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/ironchest/LICENSE"
+hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/ironchest/README.md"
+hash = "113d5bdf2a2ae1fe1abe7afcfc0c0c11a39286c5c4f63c6f1ebd940408b717c1"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/ironchest/lang/en_ud.json"
+hash = "5cb151883c760e314df890da4cec155d0e97df2ecffc28d050e73b32c17ca80e"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/ironchest/lang/en_us.json"
+hash = "3a0d63cd9febf18cb4a1581debe0c2735506b5f08d25f56e1d0821707f6e58f8"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/ironchest/lang/ko_kr.json"
+hash = "328ee98e59662f1016e45fed3b23965dbfb7689b11685f99f9591aca5d2fadca"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/ironchest/lang/pl_pl.json"
+hash = "328ee98e59662f1016e45fed3b23965dbfb7689b11685f99f9591aca5d2fadca"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/ironchest/lang/zh_cn.json"
+hash = "328ee98e59662f1016e45fed3b23965dbfb7689b11685f99f9591aca5d2fadca"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/ironchest/lang/zh_tw.json"
+hash = "4b846cc6e3ccbd3bd04d52004a26041ee6ebdbffeec548ac0d74e74d865f4f51"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/ironchest/textures/gui/copper_container.png"
+hash = "c8718df4552ec13fbb00b5eedd657d3546081079f2ebc3f99331087c111a0e6e"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/ironchest/textures/gui/diamond_container.png"
+hash = "be4b8204fef6e04a065a3ab3f23446e077057b14eab7d8711b6ea7a377939d44"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/ironchest/textures/gui/dirt_container.png"
+hash = "0398af952620bea5f85dd8877f6f09b366150e7f4875bf09c2a3057376db4566"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/ironchest/textures/gui/gold_container.png"
+hash = "6d12a98a0d7c2506dcbe1e28e0c666636a034e7f2fd0a4c22f308322de034e12"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/ironchest/textures/gui/iron_container.png"
+hash = "e531f5106b9733430df8a34113af2e9a90de6bd645d6f5ed890d4502538841c1"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/ironchest/textures/gui/silver_container.png"
+hash = "6089d7020450db958769fff6049de82074ee4cdef822ab2044ff773b6057a9cb"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/jei/LICENSE.txt"
+hash = "108c93a97f3011c196b8226f5019a9c09ade318fe3a802be2f7f5ddb2c3a0d04"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/jei/README.md"
+hash = "349fb57ed9cee7eeefce685c3d9e5074206222e81921bd75dda10ecf66bbb2bf"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/jei/lang/ar_sa.json"
+hash = "526fc16326e34c1fc2e0157423bf837cc0daf39046043f93e82d29cfc62e9c87"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/jei/lang/bg_bg.json"
+hash = "29b54df81fad31c2c62caeabed4c983f18aa894821d883b21b9b80a26f82bc00"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/jei/lang/cs_cz.json"
+hash = "e0a7b959263d7cac308daec0bd1f8f65a2345b334682365981146fc64f75d6be"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/jei/lang/de_de.json"
+hash = "da5dc571f8a51b9857a9e056a15fcd73306a5108d5dfa9dbf364431d5eb9da23"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/jei/lang/el_gr.json"
+hash = "cb04f33c9ab22b58e73eefae929701268c404d55fc56b47666d3e258aa947a70"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/jei/lang/en_au.json"
+hash = "80bf6d05c4ce87ce92a6feb3ec6183a518360ddc7ac7cab6159c920b6edba683"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/jei/lang/en_us.json"
+hash = "e2e928d3e547293bf27edcdb6565b8fa4e47ecdf04362d2f3c157af54c776b6b"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/jei/lang/es_es.json"
+hash = "b6d495dd4698ac6ae7b87e679d3525ba2f6b21a6a228430bb6df0f2c8f2a89c1"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/jei/lang/fi_fi.json"
+hash = "6d0e26b91711b2e0be502a2cac573b34a6711dab07c4851ee27e52da7ff356d2"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/jei/lang/fr_fr.json"
+hash = "a34a4b67e1dc72058904dfa9ea680c944befe90d389c4e05633f388990a647b8"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/jei/lang/he_il.json"
+hash = "1b1e33126e8c8cfb57e9bc463aed4eeda65b0813cb299407534c666a0bfc81a8"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/jei/lang/id_id.json"
+hash = "2b8cb69b40795c7229c02dcd690bb76a0ac77710e84d76eb1512235d1ba2e335"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/jei/lang/it_it.json"
+hash = "6b5cb9e2a855d7158b56acf9fc0164db932d3c387ae18505bcf80efe5b53796f"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/jei/lang/ja_jp.json"
+hash = "5042624094155dd419de1d83d5f91211104e29d3b8c0adddf6e287d37794c6ae"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/jei/lang/ko_kr.json"
+hash = "50d8fb13b06a2161d07ecc2536b5cfad602580560d6402673fb5ab21b9e08a2f"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/jei/lang/lt_lt.json"
+hash = "8ec8a5370cb42f58baa8ebd14b3673fc1eb7fe39a3c318eaee32af27b2f9171f"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/jei/lang/nb_no.json"
+hash = "db9e9d0441532cb5895e64714a38a38f77c3ac21fe4b60aa2b3ca7e499bc604c"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/jei/lang/pl_pl.json"
+hash = "addfa9d3f0090173ac3838dfa3fd9e8dda0e36de68d9d6d3af5287d626c73cca"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/jei/lang/pt_br.json"
+hash = "7e6081b3672bb628f790d6f4ee78895000d0047b5912d8228a2cf384e254231e"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/jei/lang/ru_ru.json"
+hash = "36dbdf65529de658ae629490372343146eb64788b7a54c21d905854fdae93aa0"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/jei/lang/sv_se.json"
+hash = "51d3ed291b38baf8feee82d151c0f5baa0b92a40347d95cad9b21c4c6bf42d95"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/jei/lang/tr_tr.json"
+hash = "8d1cdbbf23cceb3f726379f3f95db49347e5c37751633770094ac468631ac595"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/jei/lang/uk_ua.json"
+hash = "1a44a4ceb732ca4e1f6805608ba8fcd8a04d69692bcf62551ebf76e62c3b9072"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/jei/lang/zh_cn.json"
+hash = "6761fb9e370095c2963bc094acb8117a320d390fdb70bce73a6db20b2646ecfc"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/jei/lang/zh_tw.json"
+hash = "2126d77dec7198fd260db932cf140547af336904d5add1cff824ea193f3cd035"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/jei/textures/gui/button_disabled.png"
+hash = "28d8f2ef36e9062c199e623bd59bfe170457efec7d7aeba910f08fb25094606b"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/jei/textures/gui/button_enabled.png"
+hash = "bc38c016cadf58296efb56f7615533198162b31f5d9c91755f5dcbbd1d7e17c7"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/jei/textures/gui/button_highlight.png"
+hash = "2a240351bf2e305f2c6ff430dc5aced26f1e34400d3d33ccc8c8ed664f8c92ae"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/jei/textures/gui/catalyst_tab.png"
+hash = "4c0a0adb4cc02f0abbc4e62e8dd3893161e29f243d6848e99157ee007c38c34f"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/jei/textures/gui/debug.png"
+hash = "7e544b721c17946c0b9b3179f8305924ee36b4618563c16c55db74a321ca3b5c"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/jei/textures/gui/gui_background.png"
+hash = "aa9622ee710e840f9c9bd0e00cbae3f1f489cb6c27d20c1ecc3ef0ad84c3fb7d"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/jei/textures/gui/gui_vanilla.png"
+hash = "be3b69060d61a3d2b7edef594b6c176e534285400977875684994f4e3410155a"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/jei/textures/gui/icons/shapeless_icon.png"
+hash = "28dce706856acfdc26642285c17cac533332c3e7a2e077046a38dda67cc27a0b"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/jei/textures/gui/search_background.png"
+hash = "404c152e05d1813ae8f5a5d75b6dea0e047154b9f58921f70694051fd05e83db"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/jei/textures/gui/single_recipe_background.png"
+hash = "0449438cda5c0bf3370f274e66ea3ac6742af31aa12bd6402dc1bd1b9fb77f31"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/jei/textures/gui/slot.png"
+hash = "87e5fe3230c1dbd701a1d7efa08e5b6f62bfaf41bd3be95be1f3655572d7df5a"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/jei/textures/gui/tab_selected.png"
+hash = "80882c2253dd21b18069955cc95bb78f33782cddff538ceaeb027c5323e67ffd"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/jei/textures/gui/tab_unselected.png"
+hash = "107c358711a5c44c00f71dd4724322db00c70d09ade954c3e32a13459c521a0b"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/minecraft/optifine/color.properties"
+hash = "93bd0671bb267d1829a5df98eae2346fcff65a9fca2fb0030bcd4957fee3d2af"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/minecraft/textures/gui/accessibility.png"
+hash = "def430d462b2dc68b1b4e0db38a607b9b284b2067b704b55e1711915b2751845"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/minecraft/textures/gui/advancements/tabs.png"
+hash = "ec5084c0eea990fdd41c75955137320d740a7fcc9c3f884400bb6c3047528e9e"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/minecraft/textures/gui/advancements/widgets.png"
+hash = "aac558bced7c20fbbdf6912afae2dd4346a42ea41deacb6b8c02c45a0936e4e2"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/minecraft/textures/gui/advancements/window.png"
+hash = "7db8168cbbbeedf798024f62d9685ddb2606746ab1fd5ad2978351c6f91638c0"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/minecraft/textures/gui/book.png"
+hash = "28d9d4b964c6caed90f0edc42ce1273efc8fb91f4fb9dfeffaf29e485474ab71"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/minecraft/textures/gui/checkbox.png"
+hash = "b7cf85597c1d1648e6e42bff039258bda0000bda564323ff0de7a5fa82cd44da"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/minecraft/textures/gui/container/anvil.png"
+hash = "705d9d737685e5c42bb354d49d53d3db1f216cdd249caaeb53c9c54cd177c9be"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/minecraft/textures/gui/container/beacon.png"
+hash = "fb6b12f2b00cf1c7599bfcad1865a546aac53a00f637fb80ab7161ce6f3d5fdf"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/minecraft/textures/gui/container/blast_furnace.png"
+hash = "81137480b802d727dd6f72642fa3bf766fc9fb5288168f8b5685b9d6a09ef8fb"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/minecraft/textures/gui/container/brewing_stand.png"
+hash = "d1cfabd23879d72868869f4260a37dffbb6b6194ff47a108e60774b9bafbf870"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/minecraft/textures/gui/container/bundle.png"
+hash = "fd134e09edb440dbf5dc89e64971842b3bc9ac82b1d65a52caf21cb737f7feaf"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/minecraft/textures/gui/container/cartography_table.png"
+hash = "7b9862bf2866e55384c52d9b6a47613a67a737f76eae1607bf44f49b89c1bc12"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/minecraft/textures/gui/container/crafting_table.png"
+hash = "16c98ddf36f2f8716527b51eab2d5459261406bd8527abf4357e1bfd4f1af73d"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
+hash = "752685ddb43b9ff8645441fb8e628a7624b41ee0a67fbfe1b398062793671784"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
+hash = "1ad1443bdc8047da4b7a9894567a78fb9d6ced34c3849547d4c2a6866dc0bfd2"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
+hash = "630945aabe1748891c5c59571a2ed8fe53ea9e501b04664dd334adeca0d22c69"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/minecraft/textures/gui/container/creative_inventory/tabs.png"
+hash = "f370906e2a55c210db0eb7e5203d6f0a19abba4fd27bda7931307cd264ff8410"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/minecraft/textures/gui/container/dispenser.png"
+hash = "bed88e166fbee622ca9f278699d3afac2c21e9fa9d386d15be21209d0aea2dd7"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/minecraft/textures/gui/container/enchanting_table.png"
+hash = "c8372190e010567015a6c58e4cc2de0969336cb02415f624a7e3274a6b4a573f"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/minecraft/textures/gui/container/furnace.png"
+hash = "81137480b802d727dd6f72642fa3bf766fc9fb5288168f8b5685b9d6a09ef8fb"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/minecraft/textures/gui/container/gamemode_switcher.png"
+hash = "afb95ae38a9d8bf06163ef1a03ed4f5003c43f040e748c8a79e64e5e632d09b2"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/minecraft/textures/gui/container/generic_54.png"
+hash = "236c7eba73157f9b95e93db3580d40a880f26b8fcf3ab1b0004122213c130f78"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/minecraft/textures/gui/container/grindstone.png"
+hash = "dc4e6fbf9d6e8174ad3cb027d21ddc2d7b34e717d70dd7942bc7cd496f8c2304"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/minecraft/textures/gui/container/hopper.png"
+hash = "5dc0772d1e8f9f5a547ded69895d258611320f1a9c96bcdd63906c5e1a88e3a9"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/minecraft/textures/gui/container/horse.png"
+hash = "6596c3e71801fece66e1620fcce521a935db764f01fe0fded06b5241eb1fe0e3"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/minecraft/textures/gui/container/inventory.png"
+hash = "9c95682a3eebee3345ec20e6f519e3ebf507db710c6c7bda1c71baba74833b8a"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/minecraft/textures/gui/container/loom.png"
+hash = "e603f3c173c313b89c33c0aa7c736a1eefe79e1deeab2adff2a8138fe1f03a31"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/minecraft/textures/gui/container/shulker_box.png"
+hash = "6d5e4235f510557d38bb022b38594398afba29f44a6a4fd9699a59f58332837b"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/minecraft/textures/gui/container/smithing.png"
+hash = "e193310e841b5a8949a211b6422420342bf9f6a70adff9f6c5d323e1e32bd9e2"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/minecraft/textures/gui/container/smoker.png"
+hash = "81137480b802d727dd6f72642fa3bf766fc9fb5288168f8b5685b9d6a09ef8fb"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/minecraft/textures/gui/container/stats_icons.png"
+hash = "2150ea058b411d9b8dedf8a7b5c941b0afee619ae20cb47b3cc21bf0c593ad31"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/minecraft/textures/gui/container/stonecutter.png"
+hash = "3f522102da2a901a6ba00f4f62ffc137311c14f224dfcacd3e7a8dc2b1ef74ef"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/minecraft/textures/gui/container/villager2.png"
+hash = "1baf53d5d025d9e45e16953f9a1959e6db7bcf173d07aed127f064abd57c3acc"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/minecraft/textures/gui/demo_background.png"
+hash = "26e2634aeb3c4df228660fb11b4ccf7044a856f9a102324017ac12169147c8fe"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/minecraft/textures/gui/recipe_book.png"
+hash = "6844905cdba688b5634f36697fb1388deca78dd8c72491627f32368f9c841eb9"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/minecraft/textures/gui/recipe_button.png"
+hash = "709ebe611a5d77a6ab4b0baf6dfeb48ad79f495852b260e8dacaa99a70f68039"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/minecraft/textures/gui/resource_packs.png"
+hash = "08ca525152d0477a152c5ef4b8aecabe83a0fbe3f464e9b52d73c417bf513b84"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/minecraft/textures/gui/server_selection.png"
+hash = "21e28b13fa81a2bc12070b8ab04e0de5bc22b8e928ec8886e10fd283570aadb1"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/minecraft/textures/gui/social_interactions.png"
+hash = "2444b7127e9c4eeafb5a5e1876aea56063a7a957ea0d635f3bde1e8cb17d37fd"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/minecraft/textures/gui/spectator_widgets.png"
+hash = "dba8ae207656da38bf886e47e03cde94bcae870f9547fbec14de9d664130c380"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/minecraft/textures/gui/toasts.png"
+hash = "20950ad192f0dd5cfd8a7d2ffdea3c060f78d44d4ae31960b45cd88b1871d7c8"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/minecraft/textures/gui/widgets.png"
+hash = "385a97a35104cdb0c896a742b688e032f95507ba7a7a777f3e6f49d4d34fe67c"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/minecraft/textures/gui/world_selection.png"
+hash = "45bf90334fd8066ec8506152c4bc2c848b89bf731e1da0b98a1c5aff68df3c45"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/minecraft/textures/item/empty_armor_slot_boots.png"
+hash = "451825fddcdf7e58a3175cc20097c47317ead29dad2921f245021ca8144ae946"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/minecraft/textures/item/empty_armor_slot_chestplate.png"
+hash = "6c0c91db3250f88e68c932a203233482804801e24a387a8a15661ebdcce3bfb4"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/minecraft/textures/item/empty_armor_slot_helmet.png"
+hash = "437e8852be4f459b91a7d641aa2d96fd5b6e96aeab60d2627a34003dede52a02"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/minecraft/textures/item/empty_armor_slot_leggings.png"
+hash = "8df607ba6233ddd341d5e3a872b6af2233826c95edc91afeb9321ff846f6a3fc"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/minecraft/textures/item/empty_armor_slot_shield.png"
+hash = "d65740f1c055985cc229c5682dcb56f61cfd3842d8c6df94748ce6a40189fbc2"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/trinkets/LICENSE.md"
+hash = "a4c2961aadbf1ab74febe2598815da5dc0687a987490d610ea3a2af0ecc3ebfa"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/trinkets/README.md"
+hash = "24e4b5112f2a5977d67ee87ec5a667408c202003b3e35785a5134abb05a2d0ee"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/trinkets/textures/gui/blank_back.png"
+hash = "8b99fc10c575886bad82e2605d34a246bbdfcc72c16df638a24813a6354fbcc3"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/trinkets/textures/gui/more_slots.png"
+hash = "a7198a2d432ae6a2703ee0b5ac2fd1e82ebc91a2273c0e922506214700d9fa12"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/trinkets/textures/gui/slots/aglet.png"
+hash = "ff1dbd4ca90df49ef3d550c9f5b9c5d948aa8045617c97f6031d9e9e3aa92f9b"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/trinkets/textures/gui/slots/back.png"
+hash = "1743d217a3c2d311bc4140049fae3ddd0d5d8b7ae0430ca1d979b1acf9e05c15"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/trinkets/textures/gui/slots/belt.png"
+hash = "aa1c04402ac240da346aff43d7783e4350820d39bc96912efce117ead556ac3a"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/trinkets/textures/gui/slots/cape.png"
+hash = "b7ae10492a8de4f9b9e2457c693955c68810bdfc251326fa21b5605ddfe3c1c7"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/trinkets/textures/gui/slots/charm.png"
+hash = "a12c79566832da3a8b1a8d9488101a74aadf492392f6c843c0eca534ea473f48"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/trinkets/textures/gui/slots/empty.png"
+hash = "9533569ecc8d762c5f1a268cbfe84dbb4a6a571c727484928fb917b4301352b4"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/trinkets/textures/gui/slots/face.png"
+hash = "1be979860c3539726bde978b82c287b09ca4ad311e294b0074e9526da50bf4c4"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/trinkets/textures/gui/slots/glove.png"
+hash = "62ddfa553b1840675e9bb87fea385a937933ca416d6d91660efef87dc7be598c"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/trinkets/textures/gui/slots/glove_mirrored.png"
+hash = "7329275a081455aec2e92aad7740e81a7e9b3feaa4873db2148a46b636dbbe8c"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/trinkets/textures/gui/slots/hat.png"
+hash = "e32c149ddf3691677d34d0f6dce75a054a3e84f7d7f1e2bd49c2dc92fc88d968"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/trinkets/textures/gui/slots/necklace.png"
+hash = "f772395ae02b11c2e13f63236d81e0059d79b6114ba1147d863e3f0bb03e6208"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/trinkets/textures/gui/slots/ring.png"
+hash = "83b98eb1693947e7ab7aff00837c2d8fadf1793f62705d3a6d1b89e51f941e22"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/trinkets/textures/gui/slots/shoes.png"
+hash = "30a5316185c97e97e26a5336c74bbe363ab9c3f50fceb24f2eae971a67a2186a"
+
+[[files]]
+file = "config/openloader/resources/override-dark/pack.mcmeta"
+hash = "6c7b6064aa77f52807523e96605b868a113fa2051ebf706fa75533b3fe91c9b6"
+
+[[files]]
+file = "config/openloader/resources/override-dark/pack.png"
+hash = "cc08b4a664bd80b8de39a7cf70622154e96c1f3155da6af07eb77dd243deb07f"
+
+[[files]]
+file = "config/origins_server.toml"
+hash = "3df326eacd3e957cdab0886143c8abc51884df8c875ef78f5f4e96a9889b6b53"
+
+[[files]]
+file = "config/patchouli.json5"
+hash = "92dc9dadb34707462bf5574bb597430b3b34c65eccf964a31680d402f0431ccf"
+
+[[files]]
+file = "config/polymer/client.json"
+hash = "6ed2a6b6dcbebbe0bc7f9e086d51fb61e555630b6e7e6cf78c5b8b0853982934"
+
+[[files]]
+file = "config/polymer/server.json"
+hash = "6645da047477df48c6c9c8c2643a11c0772d91b014d0e0236a1bc596a485b31f"
+
+[[files]]
+file = "config/power_config.json5"
+hash = "4a0492a46ebe8c5870fccbd5451cfff5a6557779ae34270e33620024b0896245"
+
+[[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "40f78beeee2b811f3ad5ae17e5d43fb366f33b6efa0f2d95e419b708398ef8ff"
+
+[[files]]
+file = "config/rrp.properties"
+hash = "c8e1acbdc763d998c242adb0e75a09bea85238d689e93177f8618669be644811"
+
+[[files]]
+file = "config/sidebar_buttons.json"
+hash = "c2adfd6453038abd3081177d5aabc2909d2b9e8dac42560168de166302ba7a39"
+
+[[files]]
+file = "config/sodium-extra-options.json"
+hash = "5d7e437350c0b57ea006d980ff0cb0e25bc014dbb41cd4a81353429e4c87e5f6"
+
+[[files]]
+file = "config/sodium-extra.properties"
+hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "52fa21d31fc7a3f71311430a38f783f63923ebe84fc19823b7a5c2a087a45cf7"
+
+[[files]]
+file = "config/theoneprobe-client.toml"
+hash = "aa3a49127563a25c2f7565b4b9eb5a40c962f8c396201b46a97254faea85183f"
+
+[[files]]
+file = "config/theoneprobe-common.toml"
+hash = "2132a39c2dcb224609b7d04e820b0a39952a6fa19710531dfabcfe648d2c45d5"
+
+[[files]]
+file = "config/universal-graves.json"
+hash = "c7c15f4655c789920eb28e284294b7df81ba50889b20cba3e63ae1b69857636f"
+
+[[files]]
+file = "config/waila/blacklist.json"
+hash = "640800920130d084dec5a3a7f52c10e18d72ed7faca522b5bcb6bb46d0dcae9b"
+
+[[files]]
+file = "config/waila/megane.json"
+hash = "6c5be3a1656a3e544633636da9b76a99675d0755ba1f6fab42569deb5a9528e9"
+
+[[files]]
+file = "config/waila/megane_modules.json"
+hash = "369558cb90a91f34e4e789be88b4e64b60b12e61a8572288ab8bba10849bd1bd"
+
+[[files]]
+file = "config/waila/waila.json"
+hash = "4597fde5d576f236df3cdb1e9049601e766780ca9b245263a0fc0aa886286624"
+
+[[files]]
+file = "config/waila/waila_plugins.json"
+hash = "4affedcf41137dcf524207899bbb2e114ea5904618fd001b7b575ed176e98819"
+
+[[files]]
+file = "config/wands.json"
+hash = "cd6ed2ae9b7b8b7aeec68a7f87231003ac5becb926a193a85c6e6d983a1bd387"
+
+[[files]]
+file = "config/worldedit/worldedit.properties"
+hash = "4cf578e67783e7c6070e9d1e43df48d7679ec33b520af146f09012aa3c5c9485"
+
+[[files]]
+file = "config/yigd.toml"
+hash = "9b5353f0e1c388669962a0f12fa7ede3fef17be0e1e43ba442c31cd19a3d0d0a"
+
+[[files]]
+file = "extra.toml"
+hash = "1160928061dae950cf3836a639a89778c3f0a34f9e481d9b5252baf2f344c471"
+
+[[files]]
+file = "icon.png"
+hash = "1a5b91bc76db75add1d2709c8dd331b25b680daca630c1f1f16d6998bbdd132a"
+
+[[files]]
+file = "mods/additional-additions.pw.toml"
+hash = "ffc9d369d6da88e6ccb44555e60cc26b97f9a98652533b812653b6fd229de20e"
+metafile = true
+
+[[files]]
+file = "mods/ae2things.pw.toml"
+hash = "2619e05c47ce319bbdb067666768eee83dc297848e2998f8855f4495ade99cfd"
+metafile = true
+
+[[files]]
+file = "mods/alloy-forgery.pw.toml"
+hash = "d223b5c93b46b48120df27fc5f46cb3cf92a19cac49437b290bd00891ff98185"
+metafile = true
+
+[[files]]
+file = "mods/applied-botanics-addon.pw.toml"
+hash = "f68a88d276c5f7663f7748865addc677e5e85474921ec1c630c4d98b1fef363a"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "2e2e54ee04493089e0b945dde460149473ede218aa090267cd36a74a3a879c8b"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2.pw.toml"
+hash = "bf34c6cd09581dbf436b81d6fa3369a903453c973a33dedc2cf701c3dd11082f"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "d73c7811ad35da54efbab975b0367012124a045f09cad6b1e02c5e880449fce5"
+metafile = true
+
+[[files]]
+file = "mods/architectury-fabric.pw.toml"
+hash = "652a6f02347af12ad23efcb780407aee0a3ba5bd60ec5d9d8c386e6b05a2f7a1"
+metafile = true
+
+[[files]]
+file = "mods/artis-recrafted.pw.toml"
+hash = "7ebee265dc94661f88d5173406df65693fc4bba92aacc638ab8c3b6f193156f0"
+metafile = true
+
+[[files]]
+file = "mods/attributefix.pw.toml"
+hash = "1f11e5764ec8585bd0edb068010c47cae9162a8740ab87506d52c6aa81ac48d5"
+metafile = true
+
+[[files]]
+file = "mods/auth-me.pw.toml"
+hash = "a7495e12d42dbed5489c5cf318364bb320af116806f63ef05d3651f26018f63d"
+metafile = true
+
+[[files]]
+file = "mods/auto-config-updated-api.pw.toml"
+hash = "1ae8dcbdfa0bd670013aa6aa1d0471f628432293fb8085c403ddf0dac1c59624"
+metafile = true
+
+[[files]]
+file = "mods/axolotl-bucket-fix.pw.toml"
+hash = "14337a459231e6156b331a5ed3fa881f9c55e45fd5e4794ad8489c64e8396f65"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "be4a87d6527bbe07b2e6d38e32995779bd5760340505f58391e6318f16ca3f0d"
+metafile = true
+
+[[files]]
+file = "mods/balm-fabric.pw.toml"
+hash = "3291238367410e6822c9a47f0b07e4207f8f381dab0d5af144afc28c57c7124e"
+metafile = true
+
+[[files]]
+file = "mods/better-compatibility-checker.pw.toml"
+hash = "d0d66f65922d4d0b4421c3edeea3bb352a3d567458c0c5ff293e2fbcd588e0e5"
+metafile = true
+
+[[files]]
+file = "mods/bits-and-chisels.pw.toml"
+hash = "5917e203247bb1fbfd2c8129636f5eecc22c67c7de36f120dcfdd225576f84a3"
+metafile = true
+
+[[files]]
+file = "mods/botania-fabric.pw.toml"
+hash = "79c8680f0830484b9d32844127438fd7dddeb63dd870b71eb1aace99d902e70c"
+metafile = true
+
+[[files]]
+file = "mods/bow-infinity-fix.pw.toml"
+hash = "648585f694ff4b0d58e6eb7cdd957bfcec2f8d192d2981d81fdcbc531ab767bb"
+metafile = true
+
+[[files]]
+file = "mods/break-progress.pw.toml"
+hash = "a2d93ecea4b50cc8054d71b2850a5cf6b92061c4abbf26831a0ef42bc0a9981b"
+metafile = true
+
+[[files]]
+file = "mods/building-wands.pw.toml"
+hash = "5a32c3c20fda5acca2813f83d8db114d8b6ae276dcf4610a611272c075885cb7"
+metafile = true
+
+[[files]]
+file = "mods/builtin-servers.pw.toml"
+hash = "8d2f1341d447fdc56b70a9dc9f976b5e4edb4158e19da0b4d0a272aa88989f9e"
+metafile = true
+
+[[files]]
+file = "mods/can-i-mine-this-block.pw.toml"
+hash = "24893bede5593f7a1ea42d37adb379883075945949b1d219cfcbe03f91cb5aae"
+metafile = true
+
+[[files]]
+file = "mods/catwalks-inc.pw.toml"
+hash = "435e8b58159a75643f301ec8fd5b9bf984bc0dfa7a60a1e401413a04d5e7ff4c"
+metafile = true
+
+[[files]]
+file = "mods/cc-restitched.pw.toml"
+hash = "68d97d7c43f28d54f75e4acfdcfc05c3c963739d438892d8d84c68ebc9d181bf"
+metafile = true
+
+[[files]]
+file = "mods/cleancut.pw.toml"
+hash = "12485f0ca3d0e35804c01af3e2d034c253d7762943f1e8e889b66f745b52c76b"
+metafile = true
+
+[[files]]
+file = "mods/client-tweaks-fabric.pw.toml"
+hash = "dc1e6e480a546e471071cf1acfb0e239caa9a3b5ed58336657dfca8692602769"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config-legacy.pw.toml"
+hash = "ebb8d0a31f63dfb0d248ff7748cebe42913f5541bb0e2b44346ca4b5d1d7544d"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "3c184c5f2b8648c1106038d68ffece8f508dd3d4241b3d1e89080a0ed2d35b3e"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "0bb3aff99899c3140aa92f1e131679718ae66fa746777a2f96ec65ec79ea4e0d"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "6ab45df2c1da406eac1cb377318028a35936b7fd541ae2598ad4d6a011227629"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "83bea137ac95db5dcf27d8880849ba8c51cda065f35f68002b4bec2e6c85a9a9"
+metafile = true
+
+[[files]]
+file = "mods/couplings.pw.toml"
+hash = "f42e3f2379d05468263d108e3d63b1ab857992fa00a9c2268bf3786b9eb50390"
+metafile = true
+
+[[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "6b6057b06ef8925e879589ae0abc96c171c4efe990fc359e2d31c03daa64fce1"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "93ede0321cb3525c62a3fbdffcf9a96413b02bbf054be920c92fcbf25a17134b"
+metafile = true
+
+[[files]]
+file = "mods/croptopia.pw.toml"
+hash = "8f3bd670eadd9b510ced2311c7da0b2444c25f1e9b0ece1fcb1421f4073c1dbf"
+metafile = true
+
+[[files]]
+file = "mods/custom-splash-screen.pw.toml"
+hash = "83dcf4790804376087ca9d10573d94a75d38af071119bc2783909b2dfeb56bda"
+metafile = true
+
+[[files]]
+file = "mods/dashloader.pw.toml"
+hash = "0a39c5f9ef9f8bb7582acae72a8b309b5b9be6a4ef739fff8529e382e05cd96d"
+metafile = true
+
+[[files]]
+file = "mods/dustrial-decor-fabric.pw.toml"
+hash = "3531d487a8c774e3336ade0fedf753827c3cb67967e0dfda8f6fad6bed714949"
+metafile = true
+
+[[files]]
+file = "mods/ellemes-container-library.pw.toml"
+hash = "e6dd8b466a0c09e9d97f25da4f2a4adf69528db7ceb45e0e8e7e23eb39d33597"
+metafile = true
+
+[[files]]
+file = "mods/expanded-storage.pw.toml"
+hash = "71b4394abc1c1ed410252a9d99df4784708c24ed86f9d138df2ced59387fdc47"
+metafile = true
+
+[[files]]
+file = "mods/extra-generators.pw.toml"
+hash = "bc9adb0f3114bfa386384130f45a4617afdca3b7de4845c0e35309a5bdebc2b4"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "df75e3412b834224245cb4d774319a1cd7a8a2a21be1bc60f8862b6106f0a421"
+metafile = true
+
+[[files]]
+file = "mods/fabric-chisel.pw.toml"
+hash = "ee897b09e38090b5c743470b3db24ce16ae2d60b879efd5f760e154bdac0594d"
+metafile = true
+
+[[files]]
+file = "mods/fabric-disable-custom-worlds-advice.pw.toml"
+hash = "a3110816dd7be48f8f77f7d726f2b895d7a6fd5fd9d05d6a4b4103f5c72a21e5"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "481c895df86300ef360cbbad47cdc9cb13eda7c4f69e9eb33185eacd96a83230"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons.pw.toml"
+hash = "28f81d98f2cd1b459f462653da026663b1183299953d14179a0a47549176611e"
+metafile = true
+
+[[files]]
+file = "mods/faux-custom-entity-data.pw.toml"
+hash = "4868e6e89468da8b94c88e7153028ab2b22c8454f2f75fe847d86fae7406910a"
+metafile = true
+
+[[files]]
+file = "mods/feature-nbt-deadlock-be-gone.pw.toml"
+hash = "aa9cd97491eb9b9bb4ad342c55d852376fa40047ac3bdf63f9b820c4a5ca2fe4"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore-fabric.pw.toml"
+hash = "0eccead743b7a2a4fdd6ba5c58fc109b4a08f360b0d7f66df135501728ae102e"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port-fabric.pw.toml"
+hash = "fce43f7d143094e43ab8d9253bf4f7fe1dce8bb7d7c0259753c9e109124f1660"
+metafile = true
+
+[[files]]
+file = "mods/ftb-backups-2.pw.toml"
+hash = "f61be82f7d6a34ced53c4ec89eb5f6de5fb0a061b1bfb8ffac820c346927256d"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-fabric.pw.toml"
+hash = "ff48e48e828ba58db59ade1d3b05ab01373e528bba4ca74417566c9f6ed208a9"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine-fabric.pw.toml"
+hash = "4e49681df144935cd936b290b6bcfb88bd91cca0043df56e788be1ba4ec9459c"
+metafile = true
+
+[[files]]
+file = "mods/immersive-weathering-fabric.pw.toml"
+hash = "a2c5ed8ec06b5d9313e94c83685013f726a2503b64f32e19b8f326af6c76d1f9"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "6c4dd32233763be8e9d6be19b5e2afb65fdf3873b7d2684a657eb9657bd37b17"
+metafile = true
+
+[[files]]
+file = "mods/industrial-revolution.pw.toml"
+hash = "2a746b1f98332f3ff0e4c5e337d20a33c9eacb82ab4e62b24174a816ded2e24b"
+metafile = true
+
+[[files]]
+file = "mods/ingredient-extension-api.pw.toml"
+hash = "4d09daae5611ae72499f658a2e7a00456afb32bcb4de3ab43cb1df33edd01d5d"
+metafile = true
+
+[[files]]
+file = "mods/initial-inventory.pw.toml"
+hash = "f660437ed79d2c06ecde17e6274bb9192654d89a0746cc93e2ea7203bfcbd6dc"
+metafile = true
+
+[[files]]
+file = "mods/inventory-sorting.pw.toml"
+hash = "53d676cb098f77c9c84750b04ee3c384cc04a55bc92dc2c6e4cc0c31c31f00bf"
+metafile = true
+
+[[files]]
+file = "mods/irisshaders.pw.toml"
+hash = "32e49e250be282bb9621b0b3df9c069efa8259e5da0a9afcbec8931b57481851"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "964e93ce2ef52c799835cee57e6f1593b22785c9c78ef8263ee2fde5c7fb3f01"
+metafile = true
+
+[[files]]
+file = "mods/kibe.pw.toml"
+hash = "80361d6fec850fc8cd9e025227a5bb00623eb39b8b26c9591b7222b943c5dda2"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "b59cda50b7fa539aa9783bb8d87b55ca4e05d0269c9f2e2df69fa2134d0e644f"
+metafile = true
+
+[[files]]
+file = "mods/litematica.pw.toml"
+hash = "4e7136bf019c6d6333acc30e0a57133c1f23d1585b6c15b9f7a3011beca81247"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "c5fef2f9b5aec665ad9c09712c0c9d88157ba2cf48ac19fd0eef30b00c97dd5b"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "8f674ae940cae6707bafbfbb44bd474104f4f587cbfce229f63bcccd6c37e6b4"
+metafile = true
+
+[[files]]
+file = "mods/megane.pw.toml"
+hash = "176ea17692c0d6c7dc09a057ed637944622dcf1414c468797a20a12faebd7783"
+metafile = true
+
+[[files]]
+file = "mods/modern-industrialization.pw.toml"
+hash = "f62473fe712df3c11deef509ba6759d815f2f31d881ea7cd87434f61ce77bf07"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "6c9b5d25b21023da5d545239481e6a720f73ab4eb1efe59ed8f5e799b8157a36"
+metafile = true
+
+[[files]]
+file = "mods/more-minecarts.pw.toml"
+hash = "78e9a00b376b52f532b099a2b930c48df13ea41813326df9cd5ddd999a0e4652"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "d448b3da16213a9f807b86aad22bdf9d81eb331dc2c01a95834740a6fb7f6865"
+metafile = true
+
+[[files]]
+file = "mods/open-loader.pw.toml"
+hash = "a259b4f251c2f694f3b07f2ef979e726bee9351e9e9af862d6e21eeb9d9fa4f9"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "b7cf96250f950a324d66aa5399b050840fd25985077e0a771855611c4a70830d"
+metafile = true
+
+[[files]]
+file = "mods/patchouli-fabric.pw.toml"
+hash = "b3625f171b02ba1264bd281a8ab36708f68501f40cdfdb2c703e13c188d8324e"
+metafile = true
+
+[[files]]
+file = "mods/phosphor.pw.toml"
+hash = "fdecafda71af9e994d4713b215572d01bc1fd67ddf37e73f87a0afc5acd28a05"
+metafile = true
+
+[[files]]
+file = "mods/pig-pen-cipher.pw.toml"
+hash = "5b375d0099feaceff6b88827f22321790900c24f83184b92d1dab89d224c7cc9"
+metafile = true
+
+[[files]]
+file = "mods/player-events.pw.toml"
+hash = "63770268748e425393725a0c268dcbdab9ed89c5a08c842f0cd2c9ac27f06758"
+metafile = true
+
+[[files]]
+file = "mods/polylib.pw.toml"
+hash = "3abd6bfd91f9099a1c744f4c2dd6d77354f64b36c47ca62462ec95c912d94cab"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "58f5a89fbd98bca1b3c31194ef521971b4ff8a8cae60965ab1e3dbf6690055dc"
+metafile = true
+
+[[files]]
+file = "mods/revelationary.pw.toml"
+hash = "a9f274245a5cbc1004edef84e529a5e260fc432a4a38929838f311d6110fdb28"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "4611e1f46255f6f38ff465ef7b66a0be2a11f3c2ffda4c70042d93d2c1a07a36"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-professions-rep.pw.toml"
+hash = "b2abd8427b706ce1641667f5b14c3c8a4c0d0d1081c6f935d59868b07f2bff7f"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-resources.pw.toml"
+hash = "d5b6ecde4992d8515c9fd1b2ede3b03f6fae320eb1e91c1607fd94dd58f10c1a"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "e25110863b4f1bacfc7b1f2e756417a03a1415d4f8e6fa77fc8b0673af3b7a6f"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "e91d736205f3dde352e40f9f0b4b00f28c854a7702d419fcf991233e84d7be83"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "cd182c74e318b804bb29df863bb4bb22fcd42fb53a29923c792f29e190bd569f"
+metafile = true
+
+[[files]]
+file = "mods/spectrum.pw.toml"
+hash = "1c73aa2048b52ae2eccdfb4310fcfd101824ff0b2170b665cc61ef37cd190f73"
+metafile = true
+
+[[files]]
+file = "mods/trashslot-fabric-edition.pw.toml"
+hash = "ec8d7505856c0cc9a53f072e111697a44d77373afb96f8116b235ec4a717bcf5"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "712e87884c53ad1c8891e7ea384318750051684144972ad11a15c44cf327a864"
+metafile = true
+
+[[files]]
+file = "mods/twigs.pw.toml"
+hash = "a11b6bf23b6e3f664c4fc3af2c51b3f6e9628bcb3b3ff0e49f22622aeedee6bf"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "9cba8becd46d571b7576be0d34fea48a7c38f5745265186c7baf1c79251ef373"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "6f6f9795b9317427dce5d7d4970ed71307b0141b8490cdcef1b19a4c8c100c66"
+metafile = true
+
+[[files]]
+file = "mods/xl-packets-fabric.pw.toml"
+hash = "010437f1fe7ae2ea2690354120886f04a6c69f05c99861d3479e43bbbeed1cde"
+metafile = true
+
+[[files]]
+file = "mods/youre-in-grave-danger.pw.toml"
+hash = "0455abc4f7df28e558ae6ca7e33bc794dfa4541fc7cb4199a8a59151710fa54d"
+metafile = true
+
+[[files]]
+file = "server-icon.png"
+hash = "5e02574866798e4112e83a8e1a30452484f78adb7295e2aef38daba4ebc1ea7a"

@@ -1,0 +1,11 @@
+{
+  "itemGroup.farmersdelight": "\u00a7bFarmer's Delight",
+  "itemGroup.farmersdelight.main": "\u00a7bFarmer's Delight",
+
+  "farmersdelight.container.cooking_pot": "\u00a7bКухонный котел",
+  "farmersdelight.container.cooking_pot.served_on": "\u00a7bПодаётся: %s",
+  "farmersdelight.container.cooking_pot.not_heated": "\u00a7bНужен нагрев снизу",
+  "farmersdelight.container.cooking_pot.heated": "\u00a7bНагрето",
+  "farmersdelight.container.basket": "\u00a7bКорзина",
+  "farmersdelight.container.pantry": "\u00a7bКладовая"
+}

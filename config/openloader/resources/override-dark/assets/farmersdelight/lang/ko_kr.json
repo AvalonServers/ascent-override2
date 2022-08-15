@@ -1,0 +1,9 @@
+{
+  "itemGroup.farmersdelight": "\u00a7bFarmer's Delight",
+  "itemGroup.farmersdelight.main": "\u00a7bFarmer's Delight",
+
+  "farmersdelight.container.cooking_pot": "\u00a7b조리용 냄비",
+  "farmersdelight.container.cooking_pot.served_on": "\u00a7b%s이(가) 필요합니다",
+  "farmersdelight.container.basket": "\u00a7b바구니",
+  "farmersdelight.container.pantry": "\u00a7b식료품 선반"
+}

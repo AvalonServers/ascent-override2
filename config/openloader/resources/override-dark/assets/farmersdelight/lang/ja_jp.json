@@ -1,0 +1,11 @@
+{
+  "itemGroup.farmersdelight": "\u00a7bFarmer's Delight",
+  "itemGroup.farmersdelight.main": "\u00a7bFarmer's Delight",
+
+  "farmersdelight.container.cooking_pot": "\u00a7b鍋",
+  "farmersdelight.container.cooking_pot.served_on": "\u00a7b%sで保存",
+  "farmersdelight.container.cooking_pot.not_heated": "\u00a7b下に熱源が必要",
+  "farmersdelight.container.cooking_pot.heated": "\u00a7b加熱中",
+  "farmersdelight.container.basket": "\u00a7bかご",
+  "farmersdelight.container.pantry": "\u00a7b食品庫"
+}

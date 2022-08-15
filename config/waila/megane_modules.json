@@ -1,0 +1,34 @@
+{
+  "modules": {
+    "megane-industrial-revolution": {
+      "lol.bai.megane.module.indrev.MeganeIndustrialRevolution": true
+    },
+    "megane-fabric-transfer": {
+      "lol.bai.megane.module.fabrictransfer.MeganeFabricTransfer": true
+    },
+    "megane-create": {
+      "lol.bai.megane.module.create.MeganeCreate": true
+    },
+    "megane-alloy-forgery": {
+      "lol.bai.megane.module.alloyforgery.MeganeAlloyForgery": true
+    },
+    "megane-extra-generators": {
+      "lol.bai.megane.module.extragenerators.MeganeExtraGenerators": true
+    },
+    "modern_industrialization": {
+      "aztech.modern_industrialization.compat.megane.MIMeganeModule": true
+    },
+    "megane-lib-block-attributes": {
+      "lol.bai.megane.module.lba.MeganeLibBlockAttributes": true
+    },
+    "megane-applied-energistics-2": {
+      "lol.bai.megane.module.ae2.MeganeAppliedEnergistics2": true
+    },
+    "megane-reborn-energy": {
+      "lol.bai.megane.module.rebornenergy.MeganeRebornEnergy": true
+    },
+    "megane-vanilla": {
+      "lol.bai.megane.module.vanilla.MeganeVanilla": true
+    }
+  }
+}

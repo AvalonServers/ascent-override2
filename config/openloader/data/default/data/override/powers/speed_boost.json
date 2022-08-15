@@ -1,0 +1,12 @@
+{
+    "type": "origins:active_self",
+    "entity_action": {
+        "type": "origins:execute_command",
+        "command": "effect give @s minecraft:speed 10 9"
+    },
+    "cooldown": 600,
+    "hud_render": {
+        "should_render": false
+    },
+    "hidden": true
+}

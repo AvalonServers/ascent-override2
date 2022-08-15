@@ -1,0 +1,9 @@
+{
+  "_comment": "Recipe Categories",
+  "gui.jei.category.smelting.experience": "\u00a7b%s \u00a7b点经验",
+  "gui.jei.category.smelting.time.seconds": "\u00a7b%s \u00a7b秒",
+  "gui.jei.category.fuel.smeltCount.single": "\u00a7b烧炼 1 个物品",
+  "gui.jei.category.fuel.smeltCount": "\u00a7b烧炼 %s \u00a7b个物品",
+  "gui.jei.category.brewing.steps": "\u00a7b步数：%s",
+  "gui.jei.category.itemInformation": "\u00a7b信息"
+}

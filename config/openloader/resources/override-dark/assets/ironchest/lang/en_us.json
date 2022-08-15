@@ -1,0 +1,14 @@
+{
+  "_comment": "Containers",
+  "ironchest.container.iron_chest": "\u00a7bIron Chest",
+  "ironchest.container.gold_chest": "\u00a7bGold Chest",
+  "ironchest.container.diamond_chest": "\u00a7bDiamond Chest",
+  "ironchest.container.copper_chest": "\u00a7bCopper Chest",
+  "ironchest.container.silver_chest": "\u00a7bSilver Chest",
+  "ironchest.container.crystal_chest": "\u00a7bCrystal Chest",
+  "ironchest.container.obsidian_chest": "\u00a7bObsidian Chest",
+  "ironchest.container.dirt_chest": "\u00a7bDirtChest 9000!",
+
+  "_comment": "Item Groups",
+  "itemGroup.ironchest": "\u00a7bIron Chests"
+}

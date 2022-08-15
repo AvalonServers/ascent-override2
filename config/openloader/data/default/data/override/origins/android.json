@@ -1,0 +1,17 @@
+{
+    "powers": [
+        "origins:water_vulnerability",
+        "override:fall_immunity",
+        "override:fire_resistance",
+        "override:immune_to_effects",
+        "override:less_damage_from_arrows",
+        "override:more_damage_from_fire",
+        "override:speed_boost",
+        "override:sprint_jump"
+    ],
+    "icon": "minecraft:redstone_torch",
+    "impact": 3,
+    "order": 0,
+    "name": "Android",
+    "description": "Your body is purely machine and you do not require food or oxygen to survive."
+}
