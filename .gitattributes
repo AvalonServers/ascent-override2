@@ -1,0 +1,6 @@
+# Line endings MUST be the same
+* text=auto eol=lf
+
+# Use LFS for large files
+*.jar filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
