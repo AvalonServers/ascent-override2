@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".envrc"
+hash = "9c204e751c260c1fbd60e6806a4b025f9591a22fb9596c4417c1b7ca22ead8a8"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -30,7 +34,7 @@ hash = "abc3e0e4c6c3120dcbc22fecfae1966d0a040aa9464913fd2ff3aa5b1f606023"
 
 [[files]]
 file = "config/bcc.json"
-hash = "d63f06b4ac5dc01b4bdea415b428586460b6c8812e2504447d004841fbef45b5"
+hash = "a7e098a676ee698a52ff023bb7568e27ebed6b011c23765c3e93f82529ad9df7"
 
 [[files]]
 file = "config/botania-client.json5"
@@ -1477,6 +1481,11 @@ metafile = true
 [[files]]
 file = "mods/polylib.pw.toml"
 hash = "3abd6bfd91f9099a1c744f4c2dd6d77354f64b36c47ca62462ec95c912d94cab"
+metafile = true
+
+[[files]]
+file = "mods/polymorph-fabric.pw.toml"
+hash = "8af8ebe6e89a19e72901dac8581a87b251e19faba856459379456306bfb12267"
 metafile = true
 
 [[files]]
