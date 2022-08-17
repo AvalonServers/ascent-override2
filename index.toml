@@ -34,7 +34,7 @@ hash = "abc3e0e4c6c3120dcbc22fecfae1966d0a040aa9464913fd2ff3aa5b1f606023"
 
 [[files]]
 file = "config/bcc.json"
-hash = "a7e098a676ee698a52ff023bb7568e27ebed6b011c23765c3e93f82529ad9df7"
+hash = "5ffde048afe25f6171236b29ba416253fbcc540212b6faba72ae628d769fc11d"
 
 [[files]]
 file = "config/botania-client.json5"
@@ -1366,11 +1366,6 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "6c4dd32233763be8e9d6be19b5e2afb65fdf3873b7d2684a657eb9657bd37b17"
-metafile = true
-
-[[files]]
-file = "mods/industrial-revolution.pw.toml"
-hash = "2a746b1f98332f3ff0e4c5e337d20a33c9eacb82ab4e62b24174a816ded2e24b"
 metafile = true
 
 [[files]]
