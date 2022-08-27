@@ -1169,6 +1169,11 @@ hash = "d0d66f65922d4d0b4421c3edeea3bb352a3d567458c0c5ff293e2fbcd588e0e5"
 metafile = true
 
 [[files]]
+file = "mods/better-fps-render-distance-fabric.pw.toml"
+hash = "ef14e219bef064c2af9181d460c45e2ce3054ac1d762266eea1e2168c68004b4"
+metafile = true
+
+[[files]]
 file = "mods/bits-and-chisels.pw.toml"
 hash = "5917e203247bb1fbfd2c8129636f5eecc22c67c7de36f120dcfdd225576f84a3"
 metafile = true
@@ -1239,6 +1244,11 @@ hash = "0bb3aff99899c3140aa92f1e131679718ae66fa746777a2f96ec65ec79ea4e0d"
 metafile = true
 
 [[files]]
+file = "mods/connectivity.pw.toml"
+hash = "91a394b2cdf153332e2f39bb353203c94aeabb344432b2bb17b5197feebdcc1a"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "6ab45df2c1da406eac1cb377318028a35936b7fd541ae2598ad4d6a011227629"
 metafile = true
@@ -1289,6 +1299,11 @@ hash = "e6dd8b466a0c09e9d97f25da4f2a4adf69528db7ceb45e0e8e7e23eb39d33597"
 metafile = true
 
 [[files]]
+file = "mods/entity-collision-fps-fix-fabric.pw.toml"
+hash = "ba23411d4fa6b8f25953c4aa6e88f49cb5f67fa29f2ac36348cb36fc42ac91e6"
+metafile = true
+
+[[files]]
 file = "mods/expanded-storage.pw.toml"
 hash = "71b4394abc1c1ed410252a9d99df4784708c24ed86f9d138df2ced59387fdc47"
 metafile = true
@@ -1324,6 +1339,11 @@ hash = "28f81d98f2cd1b459f462653da026663b1183299953d14179a0a47549176611e"
 metafile = true
 
 [[files]]
+file = "mods/fastload.pw.toml"
+hash = "20d005baf542e53fca5e8ecce7b0231ee1036c4d435e62ee9d0ba00857492a4c"
+metafile = true
+
+[[files]]
 file = "mods/faux-custom-entity-data.pw.toml"
 hash = "4868e6e89468da8b94c88e7153028ab2b22c8454f2f75fe847d86fae7406910a"
 metafile = true
@@ -1336,6 +1356,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore-fabric.pw.toml"
 hash = "0eccead743b7a2a4fdd6ba5c58fc109b4a08f360b0d7f66df135501728ae102e"
+metafile = true
+
+[[files]]
+file = "mods/figura.pw.toml"
+hash = "aab461f1cec2046c03252c26546bf831eaa644248f9314f0f80aa5d4f2fd8543"
 metafile = true
 
 [[files]]
@@ -1399,6 +1424,16 @@ hash = "80361d6fec850fc8cd9e025227a5bb00623eb39b8b26c9591b7222b943c5dda2"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "2846c36f482f25a522d648da964512e0231d59210816cdd7a56783d344fa1ec4"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "3a07183a871951408d9dc4a87c2483f12709d9b3dc0c3e0666812c15defe216b"
+metafile = true
+
+[[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "b59cda50b7fa539aa9783bb8d87b55ca4e05d0269c9f2e2df69fa2134d0e644f"
 metafile = true
@@ -1444,6 +1479,11 @@ hash = "d448b3da16213a9f807b86aad22bdf9d81eb331dc2c01a95834740a6fb7f6865"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-crashes.pw.toml"
+hash = "5c3c84d527dc95fd46fa6f1ca7ec8a045f059e75c5d1057acf96209542f78002"
+metafile = true
+
+[[files]]
 file = "mods/open-loader.pw.toml"
 hash = "a259b4f251c2f694f3b07f2ef979e726bee9351e9e9af862d6e21eeb9d9fa4f9"
 metafile = true
@@ -1456,11 +1496,6 @@ metafile = true
 [[files]]
 file = "mods/patchouli-fabric.pw.toml"
 hash = "b3625f171b02ba1264bd281a8ab36708f68501f40cdfdb2c703e13c188d8324e"
-metafile = true
-
-[[files]]
-file = "mods/phosphor.pw.toml"
-hash = "fdecafda71af9e994d4713b215572d01bc1fd67ddf37e73f87a0afc5acd28a05"
 metafile = true
 
 [[files]]
@@ -1509,6 +1544,11 @@ hash = "d5b6ecde4992d8515c9fd1b2ede3b03f6fae320eb1e91c1607fd94dd58f10c1a"
 metafile = true
 
 [[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "e4530beb9425034b43c4e20dcd9c9ce2f306d0b3d1a7efd357b6b58be8e6511e"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "e25110863b4f1bacfc7b1f2e756417a03a1415d4f8e6fa77fc8b0673af3b7a6f"
 metafile = true
@@ -1526,6 +1566,11 @@ metafile = true
 [[files]]
 file = "mods/spectrum.pw.toml"
 hash = "1c73aa2048b52ae2eccdfb4310fcfd101824ff0b2170b665cc61ef37cd190f73"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "73259e05c16e2461736d7d7ddc8775ca97c9efd70e6a912dc2280e2bf2c67396"
 metafile = true
 
 [[files]]
