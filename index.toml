@@ -34,7 +34,7 @@ hash = "abc3e0e4c6c3120dcbc22fecfae1966d0a040aa9464913fd2ff3aa5b1f606023"
 
 [[files]]
 file = "config/bcc.json"
-hash = "5ffde048afe25f6171236b29ba416253fbcc540212b6faba72ae628d769fc11d"
+hash = "8055e1276678fa81f0f6201e87fe2a3eaa6be16c08da9cfe16115094090d9cb4"
 
 [[files]]
 file = "config/botania-client.json5"
