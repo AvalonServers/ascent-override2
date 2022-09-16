@@ -1339,6 +1339,11 @@ hash = "28f81d98f2cd1b459f462653da026663b1183299953d14179a0a47549176611e"
 metafile = true
 
 [[files]]
+file = "mods/factory-blocks.pw.toml"
+hash = "46244f84e3ad948885bbac58a89c901fc42332c7ff7ac34e0c9c96c93e02ef59"
+metafile = true
+
+[[files]]
 file = "mods/fastload.pw.toml"
 hash = "20d005baf542e53fca5e8ecce7b0231ee1036c4d435e62ee9d0ba00857492a4c"
 metafile = true
