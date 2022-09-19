@@ -34,7 +34,7 @@ hash = "abc3e0e4c6c3120dcbc22fecfae1966d0a040aa9464913fd2ff3aa5b1f606023"
 
 [[files]]
 file = "config/bcc.json"
-hash = "9d508c530102c46e5e511f5675ebd81aa8f699ddb077bf4ea2537335b0d067bf"
+hash = "2c3eb00d8be67ab79389e76af44785b93fff2ef937052fd0b827ed627646234f"
 
 [[files]]
 file = "config/botania-client.json5"
@@ -1306,11 +1306,6 @@ metafile = true
 [[files]]
 file = "mods/expanded-storage.pw.toml"
 hash = "523d9e05513a76a04470793f1c32250b83851b85a5803dd423583f92acfce648"
-metafile = true
-
-[[files]]
-file = "mods/extra-generators.pw.toml"
-hash = "bc9adb0f3114bfa386384130f45a4617afdca3b7de4845c0e35309a5bdebc2b4"
 metafile = true
 
 [[files]]
