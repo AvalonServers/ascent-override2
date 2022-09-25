@@ -1,0 +1,5 @@
+{
+	"repairCostLevelAmount": 3,
+	"repairCostMaterialAmount": 1,
+	"percentRepairedPerAction": 0.3333
+}

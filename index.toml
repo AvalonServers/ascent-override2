@@ -34,7 +34,7 @@ hash = "abc3e0e4c6c3120dcbc22fecfae1966d0a040aa9464913fd2ff3aa5b1f606023"
 
 [[files]]
 file = "config/bcc.json"
-hash = "a032c11ab42adc49528ff493896d13b31dcc8b66d5dfd0b31f9535bee94b8235"
+hash = "74dc12d6d615d29b7f90e8c1659bd70dee23ec6780a110786d2f0e454009d2cf"
 
 [[files]]
 file = "config/botania-client.json5"
@@ -123,6 +123,10 @@ hash = "75bff326a7f7c6b49d26d4bb1dc400c26b106c456a262575740566f417538703"
 [[files]]
 file = "config/ferritecore.mixin.properties"
 hash = "b95fd739ebab8995117722aaac90aab6bea1aeec3a29b5170e332a69dc6408b6"
+
+[[files]]
+file = "config/fixedanvilrepaircost-fabric.json"
+hash = "0477b683451a3c243971dfae5f19645825eb6552071bfadfe29e058a98cd8a75"
 
 [[files]]
 file = "config/flywheel.json"
