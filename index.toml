@@ -34,7 +34,7 @@ hash = "abc3e0e4c6c3120dcbc22fecfae1966d0a040aa9464913fd2ff3aa5b1f606023"
 
 [[files]]
 file = "config/bcc.json"
-hash = "2c3eb00d8be67ab79389e76af44785b93fff2ef937052fd0b827ed627646234f"
+hash = "2909e748c0140a74d0f646c5e2669cfb58af5f28a7cb2c548d0de6067f96a217"
 
 [[files]]
 file = "config/botania-client.json5"
@@ -1244,6 +1244,11 @@ hash = "0bb3aff99899c3140aa92f1e131679718ae66fa746777a2f96ec65ec79ea4e0d"
 metafile = true
 
 [[files]]
+file = "mods/collective-fabric.pw.toml"
+hash = "77048d54369520eb4ec31650367309a3685729a51b00560d8d7668dc9663d956"
+metafile = true
+
+[[files]]
 file = "mods/connectivity.pw.toml"
 hash = "91a394b2cdf153332e2f39bb353203c94aeabb344432b2bb17b5197feebdcc1a"
 metafile = true
@@ -1474,8 +1479,18 @@ hash = "78e9a00b376b52f532b099a2b930c48df13ea41813326df9cd5ddd999a0e4652"
 metafile = true
 
 [[files]]
+file = "mods/motschens-puddles.pw.toml"
+hash = "40d2f57af7f0012c5cd7d2bb3508ca0a46dbf94288a24ebc6f3a6c2fc412afc6"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "d448b3da16213a9f807b86aad22bdf9d81eb331dc2c01a95834740a6fb7f6865"
+metafile = true
+
+[[files]]
+file = "mods/no-enchant-cap.pw.toml"
+hash = "b4c3dcbdfad51eb1e786f88efeb495af3467f06163a3e9dd85b684d4a1dff3cf"
 metafile = true
 
 [[files]]
@@ -1521,6 +1536,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "e609e4e82542e9a47e5b54c799bfb1d3de6b782548b39bf8604132b0dc1b2fd7"
+metafile = true
+
+[[files]]
+file = "mods/reroll.pw.toml"
+hash = "dc8ef389dc9b6a1ee2b6f88e8855d2b7de753375aab7f4c87ba0be49f5074035"
 metafile = true
 
 [[files]]
