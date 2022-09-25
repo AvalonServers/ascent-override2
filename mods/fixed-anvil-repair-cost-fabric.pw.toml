@@ -1,0 +1,13 @@
+name = "Fixed Anvil Repair Cost (Fabric)"
+filename = "fixedanvilrepaircost-fabric_1.18.2-2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1c8eab41d93f145cfea281f81f52730f9bd3293c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3907907
+project-id = 536752

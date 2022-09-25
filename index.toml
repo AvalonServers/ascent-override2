@@ -34,7 +34,7 @@ hash = "abc3e0e4c6c3120dcbc22fecfae1966d0a040aa9464913fd2ff3aa5b1f606023"
 
 [[files]]
 file = "config/bcc.json"
-hash = "2909e748c0140a74d0f646c5e2669cfb58af5f28a7cb2c548d0de6067f96a217"
+hash = "a032c11ab42adc49528ff493896d13b31dcc8b66d5dfd0b31f9535bee94b8235"
 
 [[files]]
 file = "config/botania-client.json5"
@@ -1009,6 +1009,14 @@ file = "config/power_config.json5"
 hash = "4a0492a46ebe8c5870fccbd5451cfff5a6557779ae34270e33620024b0896245"
 
 [[files]]
+file = "config/puddles.json"
+hash = "e3bf13bfae135bec8dd7c2bc476bc260e63fab29feeabe64b5caaf471d973337"
+
+[[files]]
+file = "config/reroll.json5"
+hash = "561fe8d05096ddc2ad78a8c592cabea51b0dfda7c156bac7c857543179c466aa"
+
+[[files]]
 file = "config/roughlyenoughitems/config.json5"
 hash = "40f78beeee2b811f3ad5ae17e5d43fb366f33b6efa0f2d95e419b708398ef8ff"
 
@@ -1369,6 +1377,11 @@ hash = "4ad3c106611f22f10d59e52b9bd3f271ec46c6e05be7a9faf8bcf46685ad643c"
 metafile = true
 
 [[files]]
+file = "mods/fixed-anvil-repair-cost-fabric.pw.toml"
+hash = "5254acb175ceb1d50a145fa4a1270f0b9af09f0d1283bb2c7d652c78fc707fde"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
 hash = "dfb96c1c19d1bbc24ed0d53f6d7bc8b9a8502f3a878e61edd07c34de4106558c"
 metafile = true
@@ -1486,11 +1499,6 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "d448b3da16213a9f807b86aad22bdf9d81eb331dc2c01a95834740a6fb7f6865"
-metafile = true
-
-[[files]]
-file = "mods/no-enchant-cap.pw.toml"
-hash = "b4c3dcbdfad51eb1e786f88efeb495af3467f06163a3e9dd85b684d4a1dff3cf"
 metafile = true
 
 [[files]]
