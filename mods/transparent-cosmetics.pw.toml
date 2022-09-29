@@ -1,0 +1,13 @@
+name = "Transparent Cosmetics [Fabric]"
+filename = "TransparentCosmetics-1.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9956ed5f37b2ac8e9bbe30094749ebcef9dcfb8a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3721687
+project-id = 451965
