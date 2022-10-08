@@ -1,6 +1,6 @@
 name = "cAn i MiNe thIS bLOCk?"
 filename = "can-i-mine-this-block-1.2.0.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

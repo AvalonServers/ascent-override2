@@ -13,6 +13,10 @@ file = "config/additional-additions-config.json"
 hash = "55512d043a313861d1aadd8649c454582283b3d480ce8adb00c4a0fdd6bed89d"
 
 [[files]]
+file = "config/appleskin.json5"
+hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
+
+[[files]]
 file = "config/appliedenergistics2/client.json"
 hash = "8e1abdf2a5ca581b487476ee413c4aaeb73b3173a2eb9512d41443cab9db5bbc"
 
@@ -34,7 +38,7 @@ hash = "abc3e0e4c6c3120dcbc22fecfae1966d0a040aa9464913fd2ff3aa5b1f606023"
 
 [[files]]
 file = "config/bcc.json"
-hash = "472efc6f6636def6d99a583d9edd1eb6563376abcec72e1422d1e1b3151942cb"
+hash = "da099f9de787c2872f8d81eefeb5fc871223690701533f348fa1fe3ff6dbdb31"
 
 [[files]]
 file = "config/botania-client.json5"
@@ -77,6 +81,10 @@ file = "config/create-common.toml"
 hash = "97cc8d8e0f1008e479072b65646078eb569b49d1bf91d9cc2a1f961ff6ea8802"
 
 [[files]]
+file = "config/croptopia/croptopia.conf"
+hash = "a4c70795b0442bb035416e3b15cf2037f260d4fc2248ca64ddd2de91e8817b99"
+
+[[files]]
 file = "config/customsplashscreen.json5"
 hash = "1713001a2849bfddc240737434256b6181714897825493f739d990d67a62c69c"
 
@@ -105,6 +113,10 @@ file = "config/de/mari_023/ae2wtlib.json5"
 hash = "7e11a218f0d09f7c0a0d8c52b17abf7c0614173efa69adc17576f5b60ead7853"
 
 [[files]]
+file = "config/debugify.json"
+hash = "39abdafbddef1f987ab62faf2dc5960a619d46121b4b51e5f89e64edcff51dd5"
+
+[[files]]
 file = "config/dustrial_decor.json"
 hash = "03b3db2e605956f190f25cf43e414cc322077789713688cb2b41d20b0af95a4d"
 
@@ -113,8 +125,16 @@ file = "config/dynamicfps.toml"
 hash = "f5474c5f2aa9e04cc88211eb6c0b7c4d3835814ba7047252edf624355862caa6"
 
 [[files]]
+file = "config/etched-client.toml"
+hash = "bc0c47b1f8dc7fa63393efbf07feb8586c59bcd3d3aa05ca7df206109a33fe6b"
+
+[[files]]
 file = "config/expandedstorage.json"
 hash = "8587f97a85e14ffab6233b7d6efed398935b82dbe32e71a79ff7d45dd130d6e7"
+
+[[files]]
+file = "config/explorerscompass.json"
+hash = "2e82db4cbb15457172a507500261833b91a1c5488f0846323a74533275b6880e"
 
 [[files]]
 file = "config/extragenerators.json"
@@ -1065,8 +1085,20 @@ file = "config/travelersbackpack.json5"
 hash = "adcac1ec31420d4c3d2a87cc51236f37a4ed738fb4078cfc4d7e9ac14ca72d12"
 
 [[files]]
+file = "config/twilightforest-client.toml"
+hash = "60e74d659627f134db8f4822af124968e289082c70bb238560981e5201e0a7c9"
+
+[[files]]
+file = "config/twilightforest-common.toml"
+hash = "8a6ea65f10e4a23496d97939f5e245f53eb63f7a6d2f4e3a0f9ddb12dc3a0f1c"
+
+[[files]]
 file = "config/universal-graves.json"
 hash = "c7c15f4655c789920eb28e284294b7df81ba50889b20cba3e63ae1b69857636f"
+
+[[files]]
+file = "config/visuality.json"
+hash = "302acac902d537c5ac4ad706235c13411da14f38ed08fa84fd34d94e3b66cb26"
 
 [[files]]
 file = "config/waila/blacklist.json"
@@ -1091,6 +1123,10 @@ hash = "4affedcf41137dcf524207899bbb2e114ea5904618fd001b7b575ed176e98819"
 [[files]]
 file = "config/wands.json"
 hash = "cd6ed2ae9b7b8b7aeec68a7f87231003ac5becb926a193a85c6e6d983a1bd387"
+
+[[files]]
+file = "config/waystones/config.json"
+hash = "c12d5ce78c74f0f9f153030e8b7af16342fdc4a791bbb59d4c0e9003efbb91cd"
 
 [[files]]
 file = "config/worldedit/worldedit.properties"
@@ -1121,6 +1157,11 @@ metafile = true
 [[files]]
 file = "mods/alloy-forgery.pw.toml"
 hash = "d223b5c93b46b48120df27fc5f46cb3cf92a19cac49437b290bd00891ff98185"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "c2d4651715482da338f3539d7bc3409eb7dc1ac262e0fc0891e19ce843d18095"
 metafile = true
 
 [[files]]
@@ -1194,6 +1235,11 @@ hash = "ef14e219bef064c2af9181d460c45e2ce3054ac1d762266eea1e2168c68004b4"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "5816aa4620480a740720b9e049424af19d135e208267e26870718fc19f8f6e5f"
+metafile = true
+
+[[files]]
 file = "mods/bits-and-chisels.pw.toml"
 hash = "5917e203247bb1fbfd2c8129636f5eecc22c67c7de36f120dcfdd225576f84a3"
 metafile = true
@@ -1225,7 +1271,7 @@ metafile = true
 
 [[files]]
 file = "mods/can-i-mine-this-block.pw.toml"
-hash = "24893bede5593f7a1ea42d37adb379883075945949b1d219cfcbe03f91cb5aae"
+hash = "3a87bfb916ad6744f540e72f11b345d18b8ee6d9891c3d18651cfb83a494918a"
 metafile = true
 
 [[files]]
@@ -1324,6 +1370,16 @@ hash = "4aeb8b482ac58957da1f1543d1eed120b67d77604274c1033650739a0b4a1a31"
 metafile = true
 
 [[files]]
+file = "mods/debugify.pw.toml"
+hash = "42aa424ca423493f8fc20a7792761e64056dd25a5684cea7f6af25c3280f315c"
+metafile = true
+
+[[files]]
+file = "mods/decorative-blocks.pw.toml"
+hash = "f656cceafd2c7c50a3cca0997da62fdadad4a5525528dafccffc860f2b0f3ffa"
+metafile = true
+
+[[files]]
 file = "mods/dustrial-decor-fabric.pw.toml"
 hash = "3531d487a8c774e3336ade0fedf753827c3cb67967e0dfda8f6fad6bed714949"
 metafile = true
@@ -1334,13 +1390,18 @@ hash = "eaf6e077dbc69adad7d1b00d9e25824eef97f7d03cf456e72e243148356fe1b9"
 metafile = true
 
 [[files]]
-file = "mods/entity-collision-fps-fix-fabric.pw.toml"
-hash = "ba23411d4fa6b8f25953c4aa6e88f49cb5f67fa29f2ac36348cb36fc42ac91e6"
+file = "mods/etched.pw.toml"
+hash = "5c5d020b4ed90f00b261ffecef052319f1df5ab5f4197158d3e3abb9ffcfd8c1"
 metafile = true
 
 [[files]]
 file = "mods/expanded-storage.pw.toml"
 hash = "523d9e05513a76a04470793f1c32250b83851b85a5803dd423583f92acfce648"
+metafile = true
+
+[[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "c1f09761871d75ee57d79262152fa2a1e272965df14ba7351cc9f390f972f650"
 metafile = true
 
 [[files]]
@@ -1366,6 +1427,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-seasons.pw.toml"
 hash = "28f81d98f2cd1b459f462653da026663b1183299953d14179a0a47549176611e"
+metafile = true
+
+[[files]]
+file = "mods/fabric-waystones.pw.toml"
+hash = "413d0984a3d66fa6b1136956a77ecafe70e0091ea24da4b016573ee3f1e06d0a"
 metafile = true
 
 [[files]]
@@ -1424,6 +1490,11 @@ hash = "78fef0c730eed78a020ad2e94fce7d2b7fa2f49af80286eff6ad5b64b8fcc043"
 metafile = true
 
 [[files]]
+file = "mods/iceberg-fabric.pw.toml"
+hash = "60f6269fd7d2aa52defc49fc4963a6736581b341910c7e537c9dbcb97525f83c"
+metafile = true
+
+[[files]]
 file = "mods/immersive-weathering-fabric.pw.toml"
 hash = "a2c5ed8ec06b5d9313e94c83685013f726a2503b64f32e19b8f326af6c76d1f9"
 metafile = true
@@ -1451,6 +1522,11 @@ metafile = true
 [[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "d8d441351ed66fee6bc15a55d4e99ac797d33897a3318477071aea95977426cf"
+metafile = true
+
+[[files]]
+file = "mods/item-highlighter-fabric.pw.toml"
+hash = "35f48997c195a5bd4a974416d694da0ee1796f8e8ecad60eb2ad1f20207b8be7"
 metafile = true
 
 [[files]]
@@ -1496,6 +1572,16 @@ metafile = true
 [[files]]
 file = "mods/megane.pw.toml"
 hash = "d1c0d9816cc0fcba1da1fec95260dd8324c6f149bd9703d04c5e744f9cbbf900"
+metafile = true
+
+[[files]]
+file = "mods/midnightcontrols.pw.toml"
+hash = "845c6bfd1410cfac22e042a2839c0a3250c571d6075c384cc5814388012dbf89"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "66da572768333848a6ad0b798c955966956cf63fdf72770260db8909acfe5c4d"
 metafile = true
 
 [[files]]
@@ -1551,6 +1637,11 @@ metafile = true
 [[files]]
 file = "mods/player-events.pw.toml"
 hash = "63770268748e425393725a0c268dcbdab9ed89c5a08c842f0cd2c9ac27f06758"
+metafile = true
+
+[[files]]
+file = "mods/pollen.pw.toml"
+hash = "04b87148fea135de8be6d3151eedc28d78a60fa47443068107b4f117df97eaef"
 metafile = true
 
 [[files]]
@@ -1624,6 +1715,11 @@ hash = "73259e05c16e2461736d7d7ddc8775ca97c9efd70e6a912dc2280e2bf2c67396"
 metafile = true
 
 [[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "862ec380bd86b243a4f46114f34b39ae8a16e1856bc194f34594ac82cb8fd8c8"
+metafile = true
+
+[[files]]
 file = "mods/transparent-cosmetics.pw.toml"
 hash = "5cfa75307d6ae753fee0ed26e538c289856bc261c3427f693dd9dcfce3e517f9"
 metafile = true
@@ -1646,6 +1742,21 @@ metafile = true
 [[files]]
 file = "mods/twigs.pw.toml"
 hash = "a11b6bf23b6e3f664c4fc3af2c51b3f6e9628bcb3b3ff0e49f22622aeedee6bf"
+metafile = true
+
+[[files]]
+file = "mods/visuality.pw.toml"
+hash = "24afe0dd5b2c45613ef5a9370514c13e598db3b9d142b1ba425fdba280362589"
+metafile = true
+
+[[files]]
+file = "mods/windchimes.pw.toml"
+hash = "8df7e6995b38315f5f4678de2e1bab1ca536cb96008f8dbfb25686e7f933017b"
+metafile = true
+
+[[files]]
+file = "mods/wmitaf.pw.toml"
+hash = "a646314e15d3da9f9095506edf4c1ecaaf3ab142cc1dcc950cab565c8a2ee912"
 metafile = true
 
 [[files]]

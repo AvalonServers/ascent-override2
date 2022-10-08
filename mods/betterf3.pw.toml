@@ -1,0 +1,13 @@
+name = "BetterF3"
+filename = "BetterF3-1.2.5-Fabric-1.18.2.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "457734b8099afbda9218c59aa6f197e2a2cc8d65"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3798366
+project-id = 401648
