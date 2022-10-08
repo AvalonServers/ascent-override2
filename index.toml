@@ -38,7 +38,7 @@ hash = "abc3e0e4c6c3120dcbc22fecfae1966d0a040aa9464913fd2ff3aa5b1f606023"
 
 [[files]]
 file = "config/bcc.json"
-hash = "da099f9de787c2872f8d81eefeb5fc871223690701533f348fa1fe3ff6dbdb31"
+hash = "63bd1d9449609e620d550cf4d4958b2e7765628d4072745f6ad8972c689ba015"
 
 [[files]]
 file = "config/botania-client.json5"
@@ -82,7 +82,7 @@ hash = "97cc8d8e0f1008e479072b65646078eb569b49d1bf91d9cc2a1f961ff6ea8802"
 
 [[files]]
 file = "config/croptopia/croptopia.conf"
-hash = "a4c70795b0442bb035416e3b15cf2037f260d4fc2248ca64ddd2de91e8817b99"
+hash = "e16cf90574addb51ba3ada548b874c436e72147cbd682804a519671b41af211f"
 
 [[files]]
 file = "config/customsplashscreen.json5"

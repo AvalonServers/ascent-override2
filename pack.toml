@@ -1,12 +1,12 @@
 name = "Ascent Override"
 author = "Alex Zero"
-version = "2.0.0"
+version = "2.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c262ba67772f00fd2ddf4646cda0af69fb66d9d7329ccb855ba6c35a9e66e53c"
+hash = "833420c894da5633b6445d0d1afb9ed9da4a1412950dddb6f79318a521bca6a0"
 
 [versions]
 fabric = "0.14.9"
