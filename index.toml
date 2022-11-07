@@ -38,7 +38,7 @@ hash = "abc3e0e4c6c3120dcbc22fecfae1966d0a040aa9464913fd2ff3aa5b1f606023"
 
 [[files]]
 file = "config/bcc.json"
-hash = "63bd1d9449609e620d550cf4d4958b2e7765628d4072745f6ad8972c689ba015"
+hash = "816fb7e935daabc5039905caf9859352bc1a81ba57ec65694f2f647d8b1a4fe8"
 
 [[files]]
 file = "config/botania-client.json5"
@@ -307,6 +307,46 @@ hash = "6527091cc2901fc3019d88f811d8ae0084064e3976b72eff62291776a81bfee2"
 [[files]]
 file = "config/openloader/resources/override-base/assets/minecraft/lang/en_us.lang"
 hash = "a5b69eca54a596a62143bf04b35df4f275cdf71ff775e790de3ad37e120475f5"
+
+[[files]]
+file = "config/openloader/resources/override-base/assets/minecraft/optifine/mob/fox/fox.properties"
+hash = "efdecbea56014711a1ad5fa5abbb11fbc2fff02eb1e3321100e3239edd7cba52"
+
+[[files]]
+file = "config/openloader/resources/override-base/assets/minecraft/optifine/mob/fox/fox2.png"
+hash = "73408386f2672cb7a7f8eb6295667cf675e88f29fe4be38d895f4372b291ae9e"
+
+[[files]]
+file = "config/openloader/resources/override-base/assets/minecraft/optifine/mob/fox/fox_sleep.properties"
+hash = "efdecbea56014711a1ad5fa5abbb11fbc2fff02eb1e3321100e3239edd7cba52"
+
+[[files]]
+file = "config/openloader/resources/override-base/assets/minecraft/optifine/mob/fox/fox_sleep2.png"
+hash = "337706d5335a62486ef7f8774616c22be68fd08efceb792811db028ae4f52d3d"
+
+[[files]]
+file = "config/openloader/resources/override-base/assets/minecraft/optifine/mob/fox/snow_fox.properties"
+hash = "d1a8562583bf3dccecfa53b51a8855147ca2a8234794195e73f1727090ab2bc7"
+
+[[files]]
+file = "config/openloader/resources/override-base/assets/minecraft/optifine/mob/fox/snow_fox2.png"
+hash = "d27fb51d332f76755afcd9dce1a7d5dd13df879e9633f9a17146e1024c69af34"
+
+[[files]]
+file = "config/openloader/resources/override-base/assets/minecraft/optifine/mob/fox/snow_fox_sleep.properties"
+hash = "d1a8562583bf3dccecfa53b51a8855147ca2a8234794195e73f1727090ab2bc7"
+
+[[files]]
+file = "config/openloader/resources/override-base/assets/minecraft/optifine/mob/fox/snow_fox_sleep2.png"
+hash = "7bc9f21f7b9b17fe402ee787d4ad2d595c9b580245cdb0fe5e8747e2337a6094"
+
+[[files]]
+file = "config/openloader/resources/override-base/assets/minecraft/optifine/mob/wolf/wolf.properties"
+hash = "676ca13fc2213e410104e4a462bb0ef986ed656114b231e3c13186b15ebc1507"
+
+[[files]]
+file = "config/openloader/resources/override-base/assets/minecraft/optifine/mob/wolf/wolf2.png"
+hash = "a75a4183991104f813db95bbc8653f6d49aad8b0151aa53c3facbee4e2fbe485"
 
 [[files]]
 file = "config/openloader/resources/override-base/assets/minecraft/texts/credits.txt"
@@ -1387,6 +1427,11 @@ metafile = true
 [[files]]
 file = "mods/ellemes-container-library.pw.toml"
 hash = "eaf6e077dbc69adad7d1b00d9e25824eef97f7d03cf456e72e243148356fe1b9"
+metafile = true
+
+[[files]]
+file = "mods/entity-texture-features-fabric.pw.toml"
+hash = "9f6ad2828a6d948505d2978dfcc6dba58d56593d0158c7c10420692d5124955f"
 metafile = true
 
 [[files]]
