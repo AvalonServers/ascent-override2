@@ -1,0 +1,13 @@
+name = "Factions (Fabric)"
+filename = "factions-mc1.19.2-2.3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6d3f0868355ed712fe797e52d74269d590441a81"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4125512
+project-id = 497362

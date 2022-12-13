@@ -1,13 +1,13 @@
 name = "megane"
-filename = "megane-7.9.0.jar"
+filename = "megane-8.3.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5341e7c86c543553000b7e464d78c9817e82c200"
+hash = "2f5a36fed95740372665e2ea3c794929dcf4cc28"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3961772
+file-id = 3962125
 project-id = 408118

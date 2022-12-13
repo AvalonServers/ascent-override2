@@ -1,13 +1,13 @@
 name = "Visuality"
-filename = "visuality-0.4.3.jar"
+filename = "visuality-0.5.5.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "718c440d5f3ad19348f5524b4953c655565b9619"
+hash = "a323e8062960902fde9ee1545ea853c25e7c0eff"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3975055
+file-id = 4092154
 project-id = 521126
