@@ -1,13 +1,13 @@
 name = "FTB Library (Fabric)"
-filename = "ftb-library-fabric-1802.3.6-build.140.jar"
+filename = "ftb-library-fabric-1802.3.8-build.163.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "01aecfb467a378d5e0d9bc7dc67f420d58e1dc0c"
+hash = "0e0d2394c58ce9d5b00a971976f60a4dab9b4581"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3909754
+file-id = 4135531
 project-id = 438495

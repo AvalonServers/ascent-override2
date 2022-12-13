@@ -5,6 +5,10 @@ file = ".envrc"
 hash = "9c204e751c260c1fbd60e6806a4b025f9591a22fb9596c4417c1b7ca22ead8a8"
 
 [[files]]
+file = "README.md"
+hash = "5241eb65db1ff4e11fee9ee6cb70374c62849d824f6d1c0ac4fb4e93265f6f08"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -1521,12 +1525,22 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-backups-2.pw.toml"
-hash = "99700618d4dd59e5d96d81b4e7c9871c896600a56ba700c8580ccfbd21c37c5f"
+hash = "7c78575df885c0f6b8cb823e5acaf3a948c2cf6053512a9b125383c4db751282"
+metafile = true
+
+[[files]]
+file = "mods/ftb-chunks-fabric.pw.toml"
+hash = "ad8c5efde80ac808dfe7d57fac747a26ffed99ee2213c5464e1d239ce1ef452d"
 metafile = true
 
 [[files]]
 file = "mods/ftb-library-fabric.pw.toml"
-hash = "ff48e48e828ba58db59ade1d3b05ab01373e528bba4ca74417566c9f6ed208a9"
+hash = "e2235a6f15e7b2b2ff4527687759216f1c172b1bbebd0a6a2204054a151e2ff7"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-fabric.pw.toml"
+hash = "3f307ac5c9b90bf625b11075d58f8cdd181e2eadba0beb211bb7ff73783a9ad4"
 metafile = true
 
 [[files]]
