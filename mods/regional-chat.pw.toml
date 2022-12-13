@@ -1,0 +1,13 @@
+name = "Regional Chat"
+filename = "regional-chat-1.1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/B6Z2SJET/versions/r4JfLuTE/regional-chat-1.1.0.jar"
+hash-format = "sha1"
+hash = "f905c345dd1e82d91f6fe395ffd8db378e01b53d"
+
+[update]
+[update.modrinth]
+mod-id = "B6Z2SJET"
+version = "r4JfLuTE"

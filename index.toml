@@ -6,7 +6,7 @@ hash = "9c204e751c260c1fbd60e6806a4b025f9591a22fb9596c4417c1b7ca22ead8a8"
 
 [[files]]
 file = "README.md"
-hash = "5241eb65db1ff4e11fee9ee6cb70374c62849d824f6d1c0ac4fb4e93265f6f08"
+hash = "26b0bb389c28a40c77dc2bbc4f021fccbbf5e20398682724281b291ae89ef75a"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -42,7 +42,7 @@ hash = "abc3e0e4c6c3120dcbc22fecfae1966d0a040aa9464913fd2ff3aa5b1f606023"
 
 [[files]]
 file = "config/bcc.json"
-hash = "296bbb7ac6bd06e5bc8f67e2504a1f09d63bf22515a08279a68081be1f6d10b1"
+hash = "de53d1f00d8075d0d3418d0851201ce1cab9c84cf69ed5e6d58b175c3bc8acdf"
 
 [[files]]
 file = "config/botania-client.json5"
@@ -147,10 +147,6 @@ hash = "fe765b59314e50dbcd1865be149afd04d951ef301b76341cde266c40305884c0"
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
 hash = "75bff326a7f7c6b49d26d4bb1dc400c26b106c456a262575740566f417538703"
-
-[[files]]
-file = "config/factions.json"
-hash = "499b5091c4c5052c898a2a52ec3eb45c2468dd5b10251ecdf7f8bd1e4cdf2dd3"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
@@ -1468,11 +1464,6 @@ hash = "2a6f76ef73860e2590543341c5f81b3c43f927c9f0b26c21ff9c0b9698554609"
 metafile = true
 
 [[files]]
-file = "mods/factions-fabric.pw.toml"
-hash = "5fe368f073e69e4877010c7b52664b79cd7a3ed4a5aef4f83b51cd32cbfe7cf2"
-metafile = true
-
-[[files]]
 file = "mods/factory-blocks.pw.toml"
 hash = "b1ff96b66fa25a61631e66e8078b74b5fb34bfe70d66219a64ac1dd6c1457f33"
 metafile = true
@@ -1518,8 +1509,23 @@ hash = "8fd64c49723700b6e5183a6463a003198c117f05d4148f3dcc39e6d7f5c22663"
 metafile = true
 
 [[files]]
+file = "mods/ftb-chunks-fabric.pw.toml"
+hash = "73b496f1c368f7f981e83769f12ad3f5daeb6ec5a82bb17a21e50691d847f448"
+metafile = true
+
+[[files]]
 file = "mods/ftb-library-fabric.pw.toml"
 hash = "bf8fcf3f23ace699ad33c08bdc0f6da9c017f535990373aebf0a832c67199793"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ranks-fabric.pw.toml"
+hash = "b0cb4c3ca32713ced03715283b32df5ff571eeddb8c657b2b3f269fbce63ab82"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-fabric.pw.toml"
+hash = "20436e490b6c30fafb48aba51810e7e27f3f301055b99785a404b22d776a9a2f"
 metafile = true
 
 [[files]]
@@ -1683,6 +1689,11 @@ hash = "e45a5f9fe3d6400fb4c70a25dddb811a6ffa9566963f93a2f574e6e0c3c248c1"
 metafile = true
 
 [[files]]
+file = "mods/pingspam.pw.toml"
+hash = "643d60ae589f49ebeab43625b84cc94c9faea2f533ed9a067084cb2a2a1c4ff3"
+metafile = true
+
+[[files]]
 file = "mods/player-events.pw.toml"
 hash = "9ec2bcf6e0dff303e5542abcf5b1e7f8681e9ae018f51461262230bb99d18f27"
 metafile = true
@@ -1700,6 +1711,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "6b83b391953b84d4458ad4fb9381b866ddf85f4afd26bd323ceeec11203e1805"
+metafile = true
+
+[[files]]
+file = "mods/regional-chat.pw.toml"
+hash = "f176471a23aa820856e50b55ad4a0f0da3be5d230b80f3fd604f88a17a1d0dd6"
 metafile = true
 
 [[files]]
@@ -1760,6 +1776,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "7b110f0f87bb5f21381cc9c2338be6689219a36ef13cb34c22e745df4e6afbff"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "16fffbf1137fe74a3c1a75a27af130b2de3c4c9b4eccbc1f95e737a624db88f4"
 metafile = true
 
 [[files]]
