@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "26b0bb389c28a40c77dc2bbc4f021fccbbf5e20398682724281b291ae89ef75a"
+hash = "c03304a1e8c9191cc01e37ed93b86694b367fb567a261b6cdbcea89bb65bfce7"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -58,7 +58,7 @@ hash = "abc3e0e4c6c3120dcbc22fecfae1966d0a040aa9464913fd2ff3aa5b1f606023"
 
 [[files]]
 file = "config/bcc.json"
-hash = "05e64fd5acc3f57db4398384d0f6c855811adbe232f6ad6db4bff98a2df909ab"
+hash = "46bbcef55dac52e53a1c2f28108cde50e51b0b21c0bd131e94839dc58a17c25b"
 
 [[files]]
 file = "config/botania-client.json5"
@@ -1215,6 +1215,11 @@ hash = "79953d7df91b0d2605c1c897019f7ddc072c55735441a3cce93800c73bf2e0f6"
 metafile = true
 
 [[files]]
+file = "mods/affectionate.pw.toml"
+hash = "57c751a13a63e24201f0880a88376e3f5ae11b865863ebfc21f3333469f0cee8"
+metafile = true
+
+[[files]]
 file = "mods/alloy-forgery.pw.toml"
 hash = "824be6ecd42bef20ead6eaf146498330d09510a5771417ebc425d4ec3a3e138a"
 metafile = true
@@ -1465,6 +1470,11 @@ hash = "2a6f76ef73860e2590543341c5f81b3c43f927c9f0b26c21ff9c0b9698554609"
 metafile = true
 
 [[files]]
+file = "mods/fabrictailor.pw.toml"
+hash = "b3e1f7b080b5c4a2e3de434a6873d84ba5bd357dff99268d45db4a79fb6d43b9"
+metafile = true
+
+[[files]]
 file = "mods/factory-blocks.pw.toml"
 hash = "cc572f7d696a52ea00f58bbc57eb10e4c6f90c808bdbf7b4425b28ad127d5b68"
 metafile = true
@@ -1700,6 +1710,11 @@ hash = "2dab4b3cea2f1ce1505c3c7be55d8fb6123a7593435134f2c15eed18e6c07ddf"
 metafile = true
 
 [[files]]
+file = "mods/pehkui.pw.toml"
+hash = "527279ca4b9a30e756139465d01009482bafc3e2992c96947118a56e0bce293f"
+metafile = true
+
+[[files]]
 file = "mods/pig-pen-cipher.pw.toml"
 hash = "e45a5f9fe3d6400fb4c70a25dddb811a6ffa9566963f93a2f574e6e0c3c248c1"
 metafile = true
@@ -1765,6 +1780,11 @@ hash = "6f46cfcca55777b06ce0bf646a815aed4fbc4eb19e21e055a8e6528e41397278"
 metafile = true
 
 [[files]]
+file = "mods/rules.pw.toml"
+hash = "9af8df32148789d0a5c4f30cdcf4fc3d1f7bf0ed88161ed96c3110796113ab86"
+metafile = true
+
+[[files]]
 file = "mods/selene.pw.toml"
 hash = "811b544eaa99b1882faa2511d8b69dd6e18edbc0b22cb6a6fa036a0dea089d0f"
 metafile = true
@@ -1802,6 +1822,16 @@ metafile = true
 [[files]]
 file = "mods/styled-chat.pw.toml"
 hash = "16fffbf1137fe74a3c1a75a27af130b2de3c4c9b4eccbc1f95e737a624db88f4"
+metafile = true
+
+[[files]]
+file = "mods/styled-nicknames.pw.toml"
+hash = "d0cd4b1f936b73cbe367ccc74c325688bb5aa1e87e41f571124a22c3b361c2c1"
+metafile = true
+
+[[files]]
+file = "mods/switchy.pw.toml"
+hash = "9bb3bd78f9c00fdcd025e1e627253ad40dc915fee005b01bc99a567092f982d0"
 metafile = true
 
 [[files]]
