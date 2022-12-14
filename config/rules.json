@@ -1,0 +1,34 @@
+{
+  "rules_header": "<bold><color:#07FFFE>Ascent: Override II \"Ultra Blue\"</color></bold>",
+  "rule_schema": "<bold>${rule_number}. <green>${rule_title}</green></bold>\n${rule_description}\n",
+  "rules": [
+    {
+      "title": "The Golden Rule",
+      "description": "Treat others how you want to be treated."
+    },
+    {
+      "title": "No Bigotry",
+      "description": "No bigotry of any kind! Do not say things at the expense of others. It will not be tolerated. This includes, but is not limited to, homophobia, transphobia, ableism, racism, pluralphobia, LGBT exclusionism, ageism, or sexism."
+    },
+    {
+      "title": "Good Faith Identities",
+      "description": "All good faith identities have a place here. That means WE SUPPORT endogenic, parogenic and traumagenic systems, mspec lesbians, he/him lesbians, neopronouns, nonhumans, otherkin, alterhumans, xenogenders, split attraction model, asexuality, non-monogamy, and many, many more. If you do not support these identifiers, you are not welcome on the server."
+    },
+    {
+      "title": "Staff Power",
+      "description": "We reserve the right to ban anyone for anything that may cause disruption of server peace and/or anything that makes other users uncomfortable in any way, shape or form."
+    },
+    {
+      "title": "In-Game Exploits",
+      "description": "Use of hacked clients or known exploits in mods is prohibited; and attempts at cheating, or bypassing anti-cheat systems, will be met with a permanent ban."
+    },
+    {
+      "title": "Privacy",
+      "description": "This is a private server, and a private modpack. Please be mindful of the privacy of others when sharing content from this server, and do not distribute this modpack in any form without permission from IFM Admin."
+    },
+    {
+      "title": "Server Policy",
+      "description": "It is your responsibility to ensure your actions on the server comply with our build and zoning policies, in order to provide a fair experience for all players. Repeated, intentional violations will result in disciplinary action."
+    }
+  ]
+}

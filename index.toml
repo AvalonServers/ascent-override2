@@ -58,7 +58,7 @@ hash = "abc3e0e4c6c3120dcbc22fecfae1966d0a040aa9464913fd2ff3aa5b1f606023"
 
 [[files]]
 file = "config/bcc.json"
-hash = "46bbcef55dac52e53a1c2f28108cde50e51b0b21c0bd131e94839dc58a17c25b"
+hash = "a2550dce487172b09ab277f0bb88a509cce07b74955ba4ce85486ee5d44830b1"
 
 [[files]]
 file = "config/botania-client.json5"
@@ -230,7 +230,11 @@ hash = "3f6a69f6b0c8bf3b6c9e19964666ebd0e45bc5964c072d3ff1841e8a7ea0973a"
 
 [[files]]
 file = "config/iris.properties"
-hash = "87d42dc2d91764af9333f299c34750c59ba9b79370ab6d577557d4fa34729b83"
+hash = "656170180c09d7ffd0c9798705fc9f2a13cad3e0f6f55b38c392edb4829f1890"
+
+[[files]]
+file = "config/isxander-main-menu-credits.json"
+hash = "88ba715ce5ce759dc298d809d94f1fa2ae99fcd7639459d1bd86574a2a8fa8c8"
 
 [[files]]
 file = "config/libgui.json5"
@@ -1113,6 +1117,10 @@ file = "config/rrp.properties"
 hash = "c8e1acbdc763d998c242adb0e75a09bea85238d689e93177f8618669be644811"
 
 [[files]]
+file = "config/rules.json"
+hash = "b5fe9f2b5e86f6fdb3b3517326a9a2bb18d5615d29959c3f607866c372a86c05"
+
+[[files]]
 file = "config/sidebar_buttons.json"
 hash = "c2adfd6453038abd3081177d5aabc2909d2b9e8dac42560168de166302ba7a39"
 
@@ -1652,6 +1660,11 @@ metafile = true
 [[files]]
 file = "mods/luckperms.pw.toml"
 hash = "e0da679f53c6aca232296659def738666696cae1de4b7125753f3eb9cf2fd504"
+metafile = true
+
+[[files]]
+file = "mods/main-menu-credits.pw.toml"
+hash = "1527caee4fc4f26b525a41a95dd07dae21ab3c8d2c391237c79396abf7e9b2d7"
 metafile = true
 
 [[files]]

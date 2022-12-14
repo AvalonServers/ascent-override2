@@ -1,12 +1,12 @@
 name = "Ascent Override"
 author = "Alex Zero"
-version = "2.4.3"
+version = "2.4.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "53c835d094d73aeba4e62923d00b09f91a8e7f49b640b529c713ac4d1515a969"
+hash = "607344cede947dbba9154de9734b6b53a7a322d5c212d5c2491eff237be0739d"
 
 [versions]
 minecraft = "1.19.2"
