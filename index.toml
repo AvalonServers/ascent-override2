@@ -10,7 +10,7 @@ hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
 [[files]]
 file = "config/NoChatReports/NCR-Client.json"
-hash = "cd5517ad5ee9917aca5eb02f9eb1c2f7dca487643e8dc4a6968bc94f8beb5682"
+hash = "819cc061ffcb2031adabdd0ea8f9b0a0de1db72ab05d50c23064c20fe47e2d3e"
 
 [[files]]
 file = "config/NoChatReports/NCR-Common.json"
@@ -18,7 +18,7 @@ hash = "bbc93e6b3cb7a917334cbbb3d1b0775a1cb3244ebc2075e4fa1fb7420e32cea7"
 
 [[files]]
 file = "config/NoChatReports/NCR-Encryption.json"
-hash = "ba5e0e63cd9b06f69f19a66e99cd8f2d327421344123215c067a427a161558f1"
+hash = "90fba5a89b7d82d83124eb5f44bdd28a037449b30e00d2363bd2df48777d3796"
 
 [[files]]
 file = "config/NoChatReports/NCR-ServerWhitelist.json"
@@ -58,7 +58,7 @@ hash = "abc3e0e4c6c3120dcbc22fecfae1966d0a040aa9464913fd2ff3aa5b1f606023"
 
 [[files]]
 file = "config/bcc.json"
-hash = "0a20871bec2d6e186ef7cbca8d19fe7c16963cad6aa2bc31bacb8c35fae0efbb"
+hash = "b0e5305d98feadd48533d2946562f131e22b8c58c2a869b3ee778eef621282ea"
 
 [[files]]
 file = "config/botania-client.json5"
