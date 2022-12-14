@@ -3,11 +3,11 @@ filename = "visuality-0.5.5.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/rI0hvYcd/versions/UoVjeQq9/visuality-0.5.5.jar"
 hash-format = "sha1"
 hash = "a323e8062960902fde9ee1545ea853c25e7c0eff"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4092154
-project-id = 521126
+[update.modrinth]
+mod-id = "rI0hvYcd"
+version = "UoVjeQq9"

@@ -3,11 +3,11 @@ filename = "journeymap-1.19.2-5.9.0beta5-fabric.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/EImrtJqg/journeymap-1.19.2-5.9.0beta5-fabric.jar"
 hash-format = "sha1"
-hash = "036ae277b076d6a8d54984c197fc4def3d7d28db"
-mode = "metadata:curseforge"
+hash = "c0728c731917a1fec1953c9ca443eac5f3ca8141"
 
 [update]
-[update.curseforge]
-file-id = 4160831
-project-id = 32274
+[update.modrinth]
+mod-id = "lfHFW1mp"
+version = "EImrtJqg"

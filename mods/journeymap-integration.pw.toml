@@ -1,13 +1,13 @@
 name = "JourneyMap Integration"
 filename = "jmi-fabric-1.19.2-0.13-30.jar"
-side = "both"
+side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/M1ZKbfkJ/versions/O4q1xkMh/jmi-fabric-1.19.2-0.13-30.jar"
 hash-format = "sha1"
 hash = "7b9a2f8e4a9b6fb9a3ce2b90d9679303da3c7884"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 3965076
-project-id = 525447
+[update.modrinth]
+mod-id = "M1ZKbfkJ"
+version = "O4q1xkMh"

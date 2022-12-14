@@ -3,11 +3,11 @@ filename = "spectrum-1.6.4-1.19.2-leisure_time.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/3rc31Hgo/versions/NhZzxblZ/spectrum-1.6.4-1.19.2-leisure_time.jar"
 hash-format = "sha1"
 hash = "ee0d693d01d106c77b21a925aac6fc9af530a440"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4142056
-project-id = 556967
+[update.modrinth]
+mod-id = "3rc31Hgo"
+version = "NhZzxblZ"

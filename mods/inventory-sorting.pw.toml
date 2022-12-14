@@ -3,11 +3,11 @@ filename = "InventorySorter-1.8.10-1.19.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/5ibSyLAz/versions/ZsKcCN1N/InventorySorter-1.8.10-1.19.jar"
 hash-format = "sha1"
 hash = "6ce11087da3555f0f48e18e067384abae3e5acc6"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 3885990
-project-id = 325471
+[update.modrinth]
+mod-id = "5ibSyLAz"
+version = "ZsKcCN1N"

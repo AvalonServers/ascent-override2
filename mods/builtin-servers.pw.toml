@@ -1,13 +1,13 @@
 name = "Builtin Servers"
 filename = "builtin-servers-2.0-BETA+1.19.jar"
-side = "both"
+side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/IupkwRPf/versions/2.0-BETA%2B1.19/builtin-servers-2.0-BETA%2B1.19.jar"
 hash-format = "sha1"
 hash = "02450a1584ab93a75d7f5819b6861282ebbe8016"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 3857552
-project-id = 473131
+[update.modrinth]
+mod-id = "IupkwRPf"
+version = "ODShZHOU"

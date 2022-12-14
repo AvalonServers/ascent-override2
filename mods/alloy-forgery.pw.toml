@@ -3,11 +3,11 @@ filename = "wraith-alloy-forgery-2.0.17+1.19.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/jhl28YkY/versions/UIMlHriM/wraith-alloy-forgery-2.0.17%2B1.19.jar"
 hash-format = "sha1"
 hash = "65f4a28591a282cb0619a287ede3ed96e459bfb4"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4073356
-project-id = 438718
+[update.modrinth]
+mod-id = "jhl28YkY"
+version = "UIMlHriM"
