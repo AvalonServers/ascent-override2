@@ -1,6 +1,6 @@
 name = "FTB Backups 2"
 filename = "ftbbackups2-fabric-1.19.2-1.0.17.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

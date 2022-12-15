@@ -1,0 +1,13 @@
+name = "First Join Message"
+filename = "firstjoinmessage-fabric_1.19.2-1.9.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ppny3rjF/versions/zQjzo2H7/firstjoinmessage-fabric_1.19.2-1.9.jar"
+hash-format = "sha1"
+hash = "6ef25810f480a6e66ec7ba90b203166526052db0"
+
+[update]
+[update.modrinth]
+mod-id = "Ppny3rjF"
+version = "zQjzo2H7"
