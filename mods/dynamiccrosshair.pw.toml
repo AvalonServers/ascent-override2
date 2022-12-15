@@ -1,0 +1,13 @@
+name = "Dynamic Crosshair"
+filename = "dynamiccrosshair-4.0+1.19.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZcR9weSm/versions/4XF7aDYQ/dynamiccrosshair-4.0%2B1.19.2.jar"
+hash-format = "sha1"
+hash = "7e0fccca6d4d973a7d20e6e89fc9e5e2a75a31f6"
+
+[update]
+[update.modrinth]
+mod-id = "ZcR9weSm"
+version = "4XF7aDYQ"
