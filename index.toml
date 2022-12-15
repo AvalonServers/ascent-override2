@@ -58,7 +58,7 @@ hash = "abc3e0e4c6c3120dcbc22fecfae1966d0a040aa9464913fd2ff3aa5b1f606023"
 
 [[files]]
 file = "config/bcc.json"
-hash = "9caafbf4dd42f60beadf4f3d4e11e16593075eb8a4bc7031b98ac029391ebeb6"
+hash = "9e20eb924f6bf32e6523c80b48a8604835bc2320f5df56b71d44916aba5a1f52"
 
 [[files]]
 file = "config/botania-client.json5"
@@ -1357,6 +1357,11 @@ hash = "e7d7b42cc3b56d79d18599f936742b711f849b372ca4b6106a5d00d624573d59"
 metafile = true
 
 [[files]]
+file = "mods/bobby.pw.toml"
+hash = "33d8e4f2b5e3546f8dd4df0aadcc374b2b1e811f456bdea741dc53b94ac22f11"
+metafile = true
+
+[[files]]
 file = "mods/botania.pw.toml"
 hash = "6e2a7ae250c6997f6d6d23a772a267107a3d7fbd7137d13c62e7121ec06e3519"
 metafile = true
@@ -1639,11 +1644,6 @@ metafile = true
 [[files]]
 file = "mods/factory-blocks.pw.toml"
 hash = "cc572f7d696a52ea00f58bbc57eb10e4c6f90c808bdbf7b4425b28ad127d5b68"
-metafile = true
-
-[[files]]
-file = "mods/farsight-fabric.pw.toml"
-hash = "d7b51db6f69be6f6ea175d7004980cc764abfd58161124a5bf064e4c26b839a5"
 metafile = true
 
 [[files]]
@@ -2109,11 +2109,6 @@ metafile = true
 [[files]]
 file = "mods/switchy.pw.toml"
 hash = "9bb3bd78f9c00fdcd025e1e627253ad40dc915fee005b01bc99a567092f982d0"
-metafile = true
-
-[[files]]
-file = "mods/tabtps.pw.toml"
-hash = "689bf94d0ad4ba52a7cfab340152abbf1bdc14151c22fc882b9f1cded48e0048"
 metafile = true
 
 [[files]]
