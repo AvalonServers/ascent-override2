@@ -2482,7 +2482,7 @@ metafile = true
 
 [[files]]
 file = "mods/frame-api.pw.toml"
-hash = "8178032232586e97c3db3aa7c9f5c3901d98c53b6aeed32097a4acbfd908c374"
+hash = "b6bda890f9e1717fb59a9956323e8584e521b21028fc910540147bfbdff93baf"
 metafile = true
 
 [[files]]
@@ -2672,7 +2672,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-industrialization.pw.toml"
-hash = "f46c3653350886c083d776e6d529c6e97a6b8aaf7f297a89f8d226917fb08c39"
+hash = "a22c40fb40c27f91b0e9f1cab49c299041ca6645dedf419b0df44b4cfdb823a3"
 metafile = true
 
 [[files]]
@@ -2688,11 +2688,6 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "8f554f10f3ca26505c1f51871263a7d75fca1e07a288c60c1a96b18f830beede"
-metafile = true
-
-[[files]]
-file = "mods/mouse-wheelie.pw.toml"
-hash = "d0a41ad13a4a04f4fd5ef331400b35f59449e74097e405a0171b9b930c759704"
 metafile = true
 
 [[files]]
