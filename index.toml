@@ -2482,7 +2482,7 @@ metafile = true
 
 [[files]]
 file = "mods/frame-api.pw.toml"
-hash = "b6bda890f9e1717fb59a9956323e8584e521b21028fc910540147bfbdff93baf"
+hash = "0a1aa28f8f61619efe54a863cc08a50f392ffdfc20dccd9ab0369ccb12966265"
 metafile = true
 
 [[files]]
