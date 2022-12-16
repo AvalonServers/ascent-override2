@@ -1,0 +1,54 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "CitadelCore",
+      "uniqueId": "bd49fc1f-0e08-428d-aeab-446e0b5faf0b"
+    },
+    "time": 1671198771130,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/LYqoNzHD0t"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "CitadelCore",
+      "uniqueId": "bd49fc1f-0e08-428d-aeab-446e0b5faf0b"
+    },
+    "time": 1671196630854,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/TY9fEDhDkW"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "CitadelCore",
+      "uniqueId": "bd49fc1f-0e08-428d-aeab-446e0b5faf0b"
+    },
+    "time": 1671196576023,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/kGz13M33Qk"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "CitadelCore",
+      "uniqueId": "bd49fc1f-0e08-428d-aeab-446e0b5faf0b"
+    },
+    "time": 1671196412540,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/PS0HmNYjzz"
+    }
+  }
+]

@@ -1,0 +1,78 @@
+
+[light_sources]
+	water_sensitive_check = true
+	block_entities = true
+	entities = true
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				axolotl = true
+				bee = true
+				egg = true
+				cow = true
+				pig = true
+				skeleton = true
+				bat = true
+				rabbit = true
+				drowned = true
+				experience_orb = true
+				dolphin = true
+				item = true
+				turtle = true
+				salmon = true
+				wandering_trader = true
+				furnace_minecart = true
+				item_frame = true
+				horse = true
+				minecart = true
+				leash_knot = true
+				glow_squid = true
+				squid = true
+				parrot = true
+				creeper = true
+				enderman = true
+				chicken = true
+				trader_llama = true
+				donkey = true
+				chest_minecart = true
+				fox = true
+				tropical_fish = true
+				slime = true
+				pillager = true
+				iron_golem = true
+				zombified_piglin = true
+				cat = true
+				zombie = true
+				sheep = true
+				player = true
+				potion = true
+				wolf = true
+				villager = true
+				skeleton_horse = true
+				zombie_villager = true
+				boat = true
+				hopper_minecart = true
+				painting = true
+				cod = true
+				witch = true
+				spider = true
+				armor_stand = true
+				llama = true
+				polar_bear = true
+				stray = true
+				pufferfish = true
+
+			[light_sources.settings.entities.botania]
+				mana_burst = true
+
+			[light_sources.settings.entities.spectrum]
+				shooting_star = true
+
+			[light_sources.settings.entities.create]
+				carriage_contraption = true
+				stationary_contraption = true
+				super_glue = true
+

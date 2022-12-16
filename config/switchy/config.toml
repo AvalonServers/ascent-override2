@@ -1,0 +1,16 @@
+
+# Permission for importing various modules
+# Allowed: Non-operators can import this module, and it's imported by default
+# Operator: Operators can import this module by flagging it in the import command
+[moduleImportable]
+	"switchy:pehkui" = "OPERATOR"
+	"switchy:lanyard" = "OPERATOR"
+
+# Permission for importing various modules
+# These values are read-only - changing them here has no effect.
+# Always_Allowed: Non-operators can import this module
+# Never: This module cannot be imported
+[moduleImportableReadOnly]
+	"switchy:fabric_tailor" = "ALWAYS_ALLOWED"
+	"switchy:styled_nicknames" = "ALWAYS_ALLOWED"
+
