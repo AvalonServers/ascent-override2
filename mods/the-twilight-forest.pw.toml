@@ -1,0 +1,8 @@
+name = "The Twilight Forest"
+filename = "twilightforest-fabric-1.19.2-4.2.jar"
+side = "both"
+
+[download]
+url = "https://f003.backblazeb2.com/file/reflector2/mods/twilightforest-fabric-1.19.2-4.2.jar"
+hash-format = "sha1"
+hash = "9abc9f1d04a98cbef9b4c2d976fbbd68d917dd5d"
