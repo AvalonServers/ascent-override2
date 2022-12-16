@@ -1,0 +1,3 @@
+To refresh this file, delete it and run /reload command again! Last updated: Dec 15, 2022, 3:27:12 PM
+
+#spectrum:uncurable

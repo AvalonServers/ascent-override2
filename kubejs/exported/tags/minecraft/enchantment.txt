@@ -1,0 +1,61 @@
+To refresh this file, delete it and run /reload command again! Last updated: Dec 15, 2022, 3:27:12 PM
+
+#c:weapon_damage_enhancement
+- minecraft:bane_of_arthropods (from Quilted Fabric Convention Tags API (v1))
+- minecraft:impaling (from Quilted Fabric Convention Tags API (v1))
+- minecraft:smite (from Quilted Fabric Convention Tags API (v1))
+- minecraft:power (from Quilted Fabric Convention Tags API (v1))
+- minecraft:sharpness (from Quilted Fabric Convention Tags API (v1))
+- spectrum:improved_critical? (from Spectrum)
+- spectrum:first_strike? (from Spectrum)
+- spectrum:sniper? (from Spectrum)
+
+#spectrum:enchantments
+- spectrum:resonance? (from Spectrum)
+- spectrum:voiding? (from Spectrum)
+- spectrum:pest_control? (from Spectrum)
+- spectrum:autosmelt? (from Spectrum)
+- spectrum:inventory_insertion? (from Spectrum)
+- spectrum:exuberance? (from Spectrum)
+- spectrum:treasure_hunter? (from Spectrum)
+- spectrum:disarming? (from Spectrum)
+- spectrum:first_strike? (from Spectrum)
+- spectrum:improved_critical? (from Spectrum)
+- spectrum:inertia? (from Spectrum)
+- spectrum:clovers_favor? (from Spectrum)
+- spectrum:sniper? (from Spectrum)
+- spectrum:tight_grip? (from Spectrum)
+- spectrum:steadfast? (from Spectrum)
+- spectrum:indestructible? (from Spectrum)
+- spectrum:big_catch? (from Spectrum)
+
+#twilightforest:phantom_armor_banned_enchants
+- minecraft:vanishing_curse (from The Twilight Forest)
+- minecraft:binding_curse (from The Twilight Forest)
+
+#c:entity_movement_enhancement
+- minecraft:swift_sneak (from Quilted Fabric Convention Tags API (v1))
+- minecraft:depth_strider (from Quilted Fabric Convention Tags API (v1))
+- minecraft:soul_speed (from Quilted Fabric Convention Tags API (v1))
+
+#c:looting
+- minecraft:looting (from Quilted Fabric Convention Tags API (v1))
+- spectrum:clovers_favor? (from Spectrum)
+- spectrum:treasure_hunter? (from Spectrum)
+
+#the_bumblezone:blacklisted_crystalline_flower_enchantments
+- #spectrum:enchantments (from Spectrum)
+
+#c:entity_defense_enhancement
+- minecraft:feather_falling (from Quilted Fabric Convention Tags API (v1))
+- minecraft:protection (from Quilted Fabric Convention Tags API (v1))
+- minecraft:blast_protection (from Quilted Fabric Convention Tags API (v1))
+- minecraft:projectile_protection (from Quilted Fabric Convention Tags API (v1))
+- minecraft:fire_protection (from Quilted Fabric Convention Tags API (v1))
+- minecraft:respiration (from Quilted Fabric Convention Tags API (v1))
+
+#c:fortune
+- minecraft:fortune (from Quilted Fabric Convention Tags API (v1))
+
+#dark-enchanting:enchantment/disabled
+- #spectrum:enchantments (from Spectrum)

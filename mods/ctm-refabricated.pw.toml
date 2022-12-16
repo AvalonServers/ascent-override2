@@ -1,0 +1,13 @@
+name = "CTM Refabricated"
+filename = "ctm-fabric-1.0.0+1.19.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/syUFsyMr/versions/2PXe2F7f/ctm-fabric-1.0.0%2B1.19.jar"
+hash-format = "sha1"
+hash = "c1edb8b1d4adf9b43b75abecae79cee68fedbbda"
+
+[update]
+[update.modrinth]
+mod-id = "syUFsyMr"
+version = "2PXe2F7f"

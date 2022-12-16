@@ -1,0 +1,291 @@
+To refresh this file, delete it and run /reload command again! Last updated: Dec 15, 2022, 3:27:12 PM
+
+#minecraft:axolotl_always_hostiles
+- minecraft:drowned (from Default)
+- minecraft:guardian (from Default)
+- minecraft:elder_guardian (from Default)
+
+#minecraft:freeze_immune_entity_types
+- minecraft:stray (from Default)
+- minecraft:polar_bear (from Default)
+- minecraft:snow_golem (from Default)
+- minecraft:wither (from Default)
+- twilightforest:penguin (from The Twilight Forest)
+- twilightforest:stable_ice_core (from The Twilight Forest)
+- twilightforest:unstable_ice_core (from The Twilight Forest)
+- twilightforest:snow_guardian (from The Twilight Forest)
+- twilightforest:ice_crystal (from The Twilight Forest)
+- twilightforest:wraith (from The Twilight Forest)
+- twilightforest:knight_phantom (from The Twilight Forest)
+- twilightforest:winter_wolf (from The Twilight Forest)
+- twilightforest:yeti (from The Twilight Forest)
+- #twilightforest:bosses (from The Twilight Forest)
+- minecraft:salmon (from Immersive Weathering)
+- minecraft:cod (from Immersive Weathering)
+- minecraft:squid (from Immersive Weathering)
+- minecraft:glow_squid (from Immersive Weathering)
+- minecraft:drowned (from Immersive Weathering)
+- minecraft:wolf (from Immersive Weathering)
+- minecraft:guardian (from Immersive Weathering)
+- minecraft:elder_guardian (from Immersive Weathering)
+
+#twilightforest:bosses
+- twilightforest:naga (from The Twilight Forest)
+- twilightforest:lich (from The Twilight Forest)
+- twilightforest:minoshroom (from The Twilight Forest)
+- twilightforest:hydra (from The Twilight Forest)
+- twilightforest:knight_phantom (from The Twilight Forest)
+- twilightforest:ur_ghast (from The Twilight Forest)
+- twilightforest:alpha_yeti (from The Twilight Forest)
+- twilightforest:snow_queen (from The Twilight Forest)
+- twilightforest:plateau_boss (from The Twilight Forest)
+
+#botania:cocoon/common
+- minecraft:pig (from Botania)
+- minecraft:cow (from Botania)
+- minecraft:chicken (from Botania)
+- minecraft:rabbit (from Botania)
+- minecraft:sheep (from Botania)
+
+#immersive_weathering:tramples_paths
+- minecraft:villager (from Immersive Weathering)
+- minecraft:iron_golem (from Immersive Weathering)
+
+#twilightforest:lich_poppables
+- #minecraft:skeletons (from The Twilight Forest)
+- minecraft:zombie (from The Twilight Forest)
+- minecraft:enderman (from The Twilight Forest)
+- minecraft:spider (from The Twilight Forest)
+- minecraft:creeper (from The Twilight Forest)
+- twilightforest:swarm_spider (from The Twilight Forest)
+
+#botania:cocoon/rare_aquatic
+- minecraft:dolphin (from Botania)
+- minecraft:glow_squid (from Botania)
+- minecraft:axolotl (from Botania)
+
+#minecraft:frog_food
+- minecraft:slime (from Default)
+- minecraft:magma_cube (from Default)
+- twilightforest:maze_slime (from The Twilight Forest)
+
+#expandedstorage:minecart_chest_cycle
+- expandedstorage:wood_chest_minecart (from Expanded Storage)
+- expandedstorage:pumpkin_chest_minecart (from Expanded Storage)
+- expandedstorage:present_minecart (from Expanded Storage)
+- expandedstorage:bamboo_chest_minecart (from Expanded Storage)
+- expandedstorage:moss_chest_minecart (from Expanded Storage)
+
+#botania:cocoon/rare
+- minecraft:horse (from Botania)
+- minecraft:donkey (from Botania)
+- minecraft:wolf (from Botania)
+- minecraft:ocelot (from Botania)
+- minecraft:cat (from Botania)
+- minecraft:parrot (from Botania)
+- minecraft:llama (from Botania)
+- minecraft:fox (from Botania)
+- minecraft:panda (from Botania)
+- minecraft:turtle (from Botania)
+- minecraft:goat (from Botania)
+- quark:frog? (from Botania)
+
+#c:bosses
+- minecraft:ender_dragon (from Porting Lib Tags)
+- minecraft:wither (from Porting Lib Tags)
+- #twilightforest:bosses (from The Twilight Forest)
+- minecraft:ender_dragon (from Quilted Fabric Convention Tags API (v1))
+- minecraft:wither (from Quilted Fabric Convention Tags API (v1))
+- botania:doppleganger (from Botania)
+
+#botania:shaded_mesa_blacklist
+- minecraft:ender_dragon (from Botania)
+- minecraft:wither (from Botania)
+- minecraft:item_frame (from Botania)
+- minecraft:glow_item_frame (from Botania)
+- minecraft:end_crystal (from Botania)
+- minecraft:painting (from Botania)
+- minecraft:command_block_minecart (from Botania)
+- minecraft:marker (from Botania)
+- minecraft:area_effect_cloud (from Botania)
+- minecraft:evoker_fangs (from Botania)
+- minecraft:leash_knot (from Botania)
+- botania:corporea_spark (from Botania)
+- botania:doppleganger (from Botania)
+- botania:flame_ring (from Botania)
+- botania:magic_landmine (from Botania)
+- botania:magic_missile (from Botania)
+- botania:mana_burst (from Botania)
+- botania:pink_wither (from Botania)
+- botania:spark (from Botania)
+- botania:player_mover (from Botania)
+
+#affectionate:allowed_seats_for_lap
+
+#minecraft:raiders
+- minecraft:evoker (from Default)
+- minecraft:pillager (from Default)
+- minecraft:ravager (from Default)
+- minecraft:vindicator (from Default)
+- minecraft:illusioner (from Default)
+- minecraft:witch (from Default)
+
+#affectionate:disallowed_seats_for_lap
+- affectionate:lap_seat (from Affectionate)
+- minecraft:pig (from Affectionate)
+
+#minecraft:powder_snow_walkable_mobs
+- minecraft:rabbit (from Default)
+- minecraft:endermite (from Default)
+- minecraft:silverfish (from Default)
+- minecraft:fox (from Default)
+- twilightforest:penguin (from The Twilight Forest)
+- twilightforest:stable_ice_core (from The Twilight Forest)
+- twilightforest:unstable_ice_core (from The Twilight Forest)
+- twilightforest:snow_guardian (from The Twilight Forest)
+- twilightforest:ice_crystal (from The Twilight Forest)
+- twilightforest:raven (from The Twilight Forest)
+- twilightforest:squirrel (from The Twilight Forest)
+- twilightforest:dwarf_rabbit (from The Twilight Forest)
+- twilightforest:tiny_bird (from The Twilight Forest)
+- twilightforest:kobold (from The Twilight Forest)
+- twilightforest:death_tome (from The Twilight Forest)
+- twilightforest:mosquito_swarm (from The Twilight Forest)
+- twilightforest:towerwood_borer (from The Twilight Forest)
+
+#minecraft:axolotl_hunt_targets
+- minecraft:tropical_fish (from Default)
+- minecraft:pufferfish (from Default)
+- minecraft:salmon (from Default)
+- minecraft:cod (from Default)
+- minecraft:squid (from Default)
+- minecraft:glow_squid (from Default)
+- minecraft:tadpole (from Default)
+
+#botania:cocoon/common_aquatic
+- minecraft:cod (from Botania)
+- minecraft:salmon (from Botania)
+- minecraft:tropical_fish (from Botania)
+- minecraft:pufferfish (from Botania)
+- minecraft:squid (from Botania)
+- minecraft:frog (from Botania)
+- quark:crab? (from Botania)
+
+#minecraft:impact_projectiles
+- #minecraft:arrows (from Default)
+- minecraft:snowball (from Default)
+- minecraft:fireball (from Default)
+- minecraft:small_fireball (from Default)
+- minecraft:egg (from Default)
+- minecraft:trident (from Default)
+- minecraft:dragon_fireball (from Default)
+- minecraft:wither_skull (from Default)
+- twilightforest:nature_bolt (from The Twilight Forest)
+- twilightforest:lich_bolt (from The Twilight Forest)
+- twilightforest:wand_bolt (from The Twilight Forest)
+- twilightforest:lich_bomb (from The Twilight Forest)
+- twilightforest:moonworm_shot (from The Twilight Forest)
+- twilightforest:slime_blob (from The Twilight Forest)
+- twilightforest:thrown_wep (from The Twilight Forest)
+- twilightforest:thrown_ice (from The Twilight Forest)
+- twilightforest:falling_ice (from The Twilight Forest)
+- twilightforest:ice_snowball (from The Twilight Forest)
+
+#minecraft:beehive_inhabitors
+- minecraft:bee (from Default)
+
+#attraction:magnetic
+- minecraft:iron_golem (from Attraction)
+- #c:minecarts (from Attraction)
+
+#c:boats
+- minecraft:boat (from Quilted Fabric Convention Tags API (v1))
+- minecraft:chest_boat (from Quilted Fabric Convention Tags API (v1))
+
+#minecraft:skeletons
+- minecraft:skeleton (from Default)
+- minecraft:stray (from Default)
+- minecraft:wither_skeleton (from Default)
+- twilightforest:skeleton_druid (from The Twilight Forest)
+
+#twilightforest:sortable_entities
+- minecraft:chest_minecart (from The Twilight Forest)
+- minecraft:hopper_minecart (from The Twilight Forest)
+- minecraft:llama (from The Twilight Forest)
+- minecraft:trader_llama (from The Twilight Forest)
+- minecraft:donkey (from The Twilight Forest)
+- minecraft:mule (from The Twilight Forest)
+
+#minecraft:arrows
+- minecraft:arrow (from Default)
+- minecraft:spectral_arrow (from Default)
+- twilightforest:ice_arrow (from The Twilight Forest)
+- twilightforest:seeker_arrow (from The Twilight Forest)
+
+#minecraft:freeze_hurts_extra_types
+- minecraft:strider (from Default)
+- minecraft:blaze (from Default)
+- minecraft:magma_cube (from Default)
+- twilightforest:fire_beetle (from The Twilight Forest)
+
+#twilightforest:dont_kill_bugs
+- twilightforest:moonworm_shot (from The Twilight Forest)
+
+#ftbchunks:entity_interact_whitelist
+
+#twigs:bamboo_leaves_slow_immune
+- minecraft:panda (from Twigs)
+- minecraft:bee (from Twigs)
+- minecraft:parrot (from Twigs)
+- minecraft:ocelot (from Twigs)
+
+#c:minecarts
+- minecraft:minecart (from Quilted Fabric Convention Tags API (v1))
+- minecraft:tnt_minecart (from Quilted Fabric Convention Tags API (v1))
+- minecraft:chest_minecart (from Quilted Fabric Convention Tags API (v1))
+- minecraft:furnace_minecart (from Quilted Fabric Convention Tags API (v1))
+- minecraft:command_block_minecart (from Quilted Fabric Convention Tags API (v1))
+- minecraft:hopper_minecart (from Quilted Fabric Convention Tags API (v1))
+- minecraft:spawner_minecart (from Quilted Fabric Convention Tags API (v1))
+
+#twilightforest:rides_obstruct_snatching
+- twilightforest:pinch_beetle (from The Twilight Forest)
+- twilightforest:yeti (from The Twilight Forest)
+- twilightforest:alpha_yeti (from The Twilight Forest)
+
+#immersive_weathering:light_freeze_immune
+- #minecraft:freeze_immune_entity_types (from Immersive Weathering)
+- minecraft:fox (from Immersive Weathering)
+- minecraft:rabbit (from Immersive Weathering)
+- minecraft:sheep (from Immersive Weathering)
+- minecraft:goat (from Immersive Weathering)
+- minecraft:stray (from Immersive Weathering)
+- minecraft:polar_bear (from Immersive Weathering)
+- minecraft:salmon (from Immersive Weathering)
+- minecraft:cod (from Immersive Weathering)
+- minecraft:squid (from Immersive Weathering)
+- minecraft:glow_squid (from Immersive Weathering)
+- minecraft:guardian (from Immersive Weathering)
+- minecraft:elder_guardian (from Immersive Weathering)
+- minecraft:drowned (from Immersive Weathering)
+- minecraft:wolf (from Immersive Weathering)
+- minecraft:wither (from Immersive Weathering)
+
+#twilightforest:lifedrain_drops_no_flesh
+- #minecraft:skeletons (from The Twilight Forest)
+- minecraft:iron_golem (from The Twilight Forest)
+- minecraft:shulker (from The Twilight Forest)
+- minecraft:skeleton_horse (from The Twilight Forest)
+- minecraft:slime (from The Twilight Forest)
+- minecraft:snow_golem (from The Twilight Forest)
+- twilightforest:carminite_golem (from The Twilight Forest)
+- twilightforest:death_tome (from The Twilight Forest)
+- twilightforest:ice_crystal (from The Twilight Forest)
+- twilightforest:knight_phantom (from The Twilight Forest)
+- twilightforest:lich (from The Twilight Forest)
+- twilightforest:maze_slime (from The Twilight Forest)
+- twilightforest:mosquito_swarm (from The Twilight Forest)
+- twilightforest:snow_guardian (from The Twilight Forest)
+- twilightforest:stable_ice_core (from The Twilight Forest)
+- twilightforest:unstable_ice_core (from The Twilight Forest)
+- twilightforest:wraith (from The Twilight Forest)
