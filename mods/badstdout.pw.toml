@@ -1,0 +1,13 @@
+name = "BadStdOut"
+filename = "badstdout-1.1.1-1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c7a25e24ed67634b4e5ca1a4b9ab8ae9b469917e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3834685
+project-id = 511672

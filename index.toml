@@ -2126,6 +2126,11 @@ hash = "63edbd012db544d0590a1cd2563a4973c0316b8033370b41a48c05b0e8e667e5"
 metafile = true
 
 [[files]]
+file = "mods/badstdout.pw.toml"
+hash = "9d79dd1dbd60f3dd73a1432369bc0ff2e1761ab85ec751be07e29f32b9b92b1e"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "7c5c3e69f7d2abcde972efc46603be697818d834f28e94bbdb4fd5ee565c1c9a"
 metafile = true
@@ -2818,11 +2823,6 @@ metafile = true
 [[files]]
 file = "mods/scarves.pw.toml"
 hash = "7c0d98cb46e0b6eaee6c154cad17c58f677db62e8c2b4e61a3c331fc132dae34"
-metafile = true
-
-[[files]]
-file = "mods/scout.pw.toml"
-hash = "9220edac770c544c7c4aab53580f9a01b8e9e7a82e17f4bd7d4432b1b48998c9"
 metafile = true
 
 [[files]]
