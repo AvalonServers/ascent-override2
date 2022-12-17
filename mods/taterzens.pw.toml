@@ -1,6 +1,6 @@
 name = "Taterzen NPCs"
 filename = "taterzens-1.11.1-fabric.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/vE972Kux/versions/iznF8twF/taterzens-1.11.1-fabric.jar"
