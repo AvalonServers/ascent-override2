@@ -1,0 +1,13 @@
+name = "FabricWarps"
+filename = "FabricWarps-2.3.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/yamNvb70/versions/2.3.0/FabricWarps-2.3.0.jar"
+hash-format = "sha1"
+hash = "eae8c3441705bef21dbe7a3ceac082aa87745e95"
+
+[update]
+[update.modrinth]
+mod-id = "yamNvb70"
+version = "UWlPhYq7"

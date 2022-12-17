@@ -2365,6 +2365,11 @@ hash = "1516a9f13de49f2051eedfed8086d0e69ff9ee674a525ed133ba881c71d1cacb"
 metafile = true
 
 [[files]]
+file = "mods/discord4fabric.pw.toml"
+hash = "251dc5b300f7bfe3d609c2bc693988cb079727d572e17fb6129a1ae3517daf69"
+metafile = true
+
+[[files]]
 file = "mods/dripsounds-fabric.pw.toml"
 hash = "285da02342eee9622e3d2245212165c0563103d1ed54a03d485fa6939cf0b571"
 metafile = true
@@ -2415,6 +2420,11 @@ hash = "1a249012c4371ea18605087edaf1d72eee3d60674d62376232e7b271b98c699b"
 metafile = true
 
 [[files]]
+file = "mods/erroring-entity-remover.pw.toml"
+hash = "d1c9a9108d155a38afdc119035b582d1e1bbcbaa1106fd7f91a5550bfcbc564e"
+metafile = true
+
+[[files]]
 file = "mods/expanded-storage.pw.toml"
 hash = "006aa9406003e97dde4527264bf1de799fc03da166b3c2298befabca10c0e950"
 metafile = true
@@ -2440,8 +2450,23 @@ hash = "fa5844242239c7228674022960e1506d19b062aa056ead17d5d52f1f9d5e6a57"
 metafile = true
 
 [[files]]
+file = "mods/fabrichomes.pw.toml"
+hash = "532aecabd66f61a8ef6abd1913d383a92d4486a952cfbed26e74c5cfac1b1c27"
+metafile = true
+
+[[files]]
 file = "mods/fabrictailor.pw.toml"
 hash = "b3e1f7b080b5c4a2e3de434a6873d84ba5bd357dff99268d45db4a79fb6d43b9"
+metafile = true
+
+[[files]]
+file = "mods/fabrictpa.pw.toml"
+hash = "cdd29faece57219361be127ce0e75df8efb79864fc049144c4e038d009cf3db6"
+metafile = true
+
+[[files]]
+file = "mods/fabricwarps.pw.toml"
+hash = "a9aa51e0ad483fa3599d42f0f314aa577d26d278c860a9aeb59aab1796154c42"
 metafile = true
 
 [[files]]
@@ -2845,6 +2870,11 @@ hash = "a49036d05fefdf607d4e2365a1bfb29712e69acf2fbe12729491646d981392c1"
 metafile = true
 
 [[files]]
+file = "mods/skylands.pw.toml"
+hash = "d6cfedf5ef300eab568973523271b39e5919a26d8a8b3794a1e6a540aca82736"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "09a2246cb32a1b13e94e264d53429e8fdf5bc1d6444bc4112f9f28b971f9dc54"
 metafile = true
@@ -2897,6 +2927,11 @@ metafile = true
 [[files]]
 file = "mods/switchy.pw.toml"
 hash = "9bb3bd78f9c00fdcd025e1e627253ad40dc915fee005b01bc99a567092f982d0"
+metafile = true
+
+[[files]]
+file = "mods/taterzens.pw.toml"
+hash = "886b81a66f4d83451c7ab9644eefbd8886904053e0d642701afd2c7286b76c32"
 metafile = true
 
 [[files]]
