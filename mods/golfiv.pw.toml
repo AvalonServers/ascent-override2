@@ -1,0 +1,13 @@
+name = "GolfIV"
+filename = "golfiv-0.6.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/PfKYAJGk/versions/0.6.0/golfiv-0.6.0.jar"
+hash-format = "sha1"
+hash = "eca2928153038bdfcca3429bf2252f2fd703c9ff"
+
+[update]
+[update.modrinth]
+mod-id = "PfKYAJGk"
+version = "3FmjEkIl"
