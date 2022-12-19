@@ -402,7 +402,7 @@ hash = "39a1bbdd9d722be3d0288f059168d51caf6802bacb1e617d0a7c2fc43d2e57ae"
 
 [[files]]
 file = "config/inventorysorter/blacklist.json5"
-hash = "274dcf155e9646094d42f860442f2c29f627145c90ad01d6ea10833915552687"
+hash = "9f36f88fdb87b6320507f049e9eff15a6622655666bac5122c1c9f694dd2e3d7"
 
 [[files]]
 file = "config/inventorysorter/config.json5"
@@ -2155,11 +2155,6 @@ hash = "e8cd685b609577ab23e2a55ec3273a1ff9475daef52f0999b2c5d27f7c795f5c"
 metafile = true
 
 [[files]]
-file = "mods/bettersmoke.pw.toml"
-hash = "7c3134b56d5173c32ed67481ba8afdc22c58ae5902a4ebde100bcfa840b56a47"
-metafile = true
-
-[[files]]
 file = "mods/bits-and-chisels.pw.toml"
 hash = "e7d7b42cc3b56d79d18599f936742b711f849b372ca4b6106a5d00d624573d59"
 metafile = true
@@ -2480,11 +2475,6 @@ hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
 metafile = true
 
 [[files]]
-file = "mods/figura.pw.toml"
-hash = "a0942794c9bd4dcb97be33cb0ae9802164d25278618854292ff50d758799b0cd"
-metafile = true
-
-[[files]]
 file = "mods/first-join-message.pw.toml"
 hash = "233642b9d4d2de0c329ebdfa5bbbcca3d240063812ceae1e49081827acd24141"
 metafile = true
@@ -2547,6 +2537,11 @@ metafile = true
 [[files]]
 file = "mods/inspecio.pw.toml"
 hash = "373a56d7f4fb25661a0585492f7ea490e7613f1191e588fec08782438d52e1fd"
+metafile = true
+
+[[files]]
+file = "mods/inventory-sorting.pw.toml"
+hash = "9ec7fac40bbe6f5e496993422b10b9df982cbf9ad5f8631f1070476cbf20b5fe"
 metafile = true
 
 [[files]]
@@ -2832,11 +2827,6 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-resources.pw.toml"
 hash = "6f46cfcca55777b06ce0bf646a815aed4fbc4eb19e21e055a8e6528e41397278"
-metafile = true
-
-[[files]]
-file = "mods/roundaround-inventory-management.pw.toml"
-hash = "8575bdb2a3cfaa3be8845e48a2b12f25ab6bfc6957de226954063cf926a78c8e"
 metafile = true
 
 [[files]]
