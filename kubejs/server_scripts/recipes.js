@@ -1,9 +1,14 @@
 // priority: 0
 
 ServerEvents.recipes(event => {
-	// Change recipes here
 	event.remove({ id: 'tempad:tempad' })
 	event.remove({ id: 'tempad:he_who_remains_tempad' })
+
+	// remove blast furnace recipe for ad astra steel
+	event.remove({
+		type: 'minecraft:blasting',
+		output: 'ad_astra:steel_ingot'
+	})
 })
 
 ServerEvents.tags('item', event => {

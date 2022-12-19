@@ -474,7 +474,7 @@ hash = "6b52769b3358f87b591871a4444f3cef8124a9dced0da1755f18db2f47adf4f3"
 
 [[files]]
 file = "config/modern_industrialization.toml"
-hash = "f6448406c67434e70cf05a20abb81d231683915a85eb31d7d275d4638e1c9877"
+hash = "c11b8235a6f2742e099e2868e3b703135adcc780b17e7cc621b6fbc7f90e3a95"
 
 [[files]]
 file = "config/modmenu.json"
@@ -2018,7 +2018,7 @@ hash = "b78bbb81b8283d5ae7bd585a031ac5c6d930b05e583f9651836a9edba0b0a90b"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "c6597005dfebaf339fa3cac0fc4c5373ee130699d78054c57462651b9e49fdff"
+hash = "05cb738f10afe5b73feb06fb86d739de93ed5d2e70dfbce52b4de47575e92be6"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
