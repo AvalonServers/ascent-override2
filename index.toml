@@ -2785,6 +2785,11 @@ hash = "d6593b7ec2735cf3867d1d01d29b8adfb3a24e93932022ea299f977e7a81dedd"
 metafile = true
 
 [[files]]
+file = "mods/raknetify.pw.toml"
+hash = "10bc868ae465b8ca1da170a0f6d20c2413a5b82adbbbc0d4b14723ba3f83aa50"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
 metafile = true
