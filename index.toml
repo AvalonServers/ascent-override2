@@ -505,6 +505,10 @@ file = "config/openloader/data/default/data/origins/origin_layers/origin.json"
 hash = "4e32cffb85019071cfaf99e0c4cda6f431ad1c19021c86b8f1b3f19cd97234d8"
 
 [[files]]
+file = "config/openloader/data/default/data/override/alloy_forge_fuels/lignite.json"
+hash = "005356553e4e4ef1cc7b54402e76f6664bd418a78a7a4df9b74377932f8fd847"
+
+[[files]]
 file = "config/openloader/data/default/data/override/origins/android.json"
 hash = "6fbeb1fd15b171b9c2fb3dc0d3dddd65bb3b46a95186ff61f76654fc2720a4d3"
 
@@ -1090,11 +1094,11 @@ hash = "16c98ddf36f2f8716527b51eab2d5459261406bd8527abf4357e1bfd4f1af73d"
 
 [[files]]
 file = "config/openloader/resources/override-dark/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
-hash = "752685ddb43b9ff8645441fb8e628a7624b41ee0a67fbfe1b398062793671784"
+hash = "1925af1082fd63c3be459c8067dbd714b7143b81092dfdd362c3074120fa172c"
 
 [[files]]
 file = "config/openloader/resources/override-dark/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
-hash = "1ad1443bdc8047da4b7a9894567a78fb9d6ced34c3849547d4c2a6866dc0bfd2"
+hash = "d2f8b1f92adc22d40718ee99d9b4af08f1ef67660d78d7a3a6ce29db296dd5bb"
 
 [[files]]
 file = "config/openloader/resources/override-dark/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
@@ -1138,7 +1142,7 @@ hash = "6596c3e71801fece66e1620fcce521a935db764f01fe0fded06b5241eb1fe0e3"
 
 [[files]]
 file = "config/openloader/resources/override-dark/assets/minecraft/textures/gui/container/inventory.png"
-hash = "9c95682a3eebee3345ec20e6f519e3ebf507db710c6c7bda1c71baba74833b8a"
+hash = "0b35337784b68b07669fbb83bdf2315f7b42788835993e2f5c8a5766cdc211e0"
 
 [[files]]
 file = "config/openloader/resources/override-dark/assets/minecraft/textures/gui/container/loom.png"
@@ -2090,6 +2094,11 @@ hash = "63dc69c2b6fe30ccd872f25ad724105d24032368886ce719c5ab75bbd6692952"
 metafile = true
 
 [[files]]
+file = "mods/arch-ex.pw.toml"
+hash = "f0e9dfb7405e8c7667a670f398a644ec17ac044dd5404ebe9cbf5aa5bfb907c4"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "808c30194a90fce3a57ba82e92333518f3a14a5fdb69c84b5fac247e46557632"
 metafile = true
@@ -2150,6 +2159,11 @@ hash = "3ce78caf9a509e6fe950a78d466bb8e0729ced84aba6aabb298f3438dd9388ed"
 metafile = true
 
 [[files]]
+file = "mods/better-biome-blend.pw.toml"
+hash = "aeaefb6089a1cf7635b3722aabdda71baea6e0e72547ca3bb7726400ae5b93cd"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "e8cd685b609577ab23e2a55ec3273a1ff9475daef52f0999b2c5d27f7c795f5c"
 metafile = true
@@ -2167,6 +2181,11 @@ metafile = true
 [[files]]
 file = "mods/bobby.pw.toml"
 hash = "33d8e4f2b5e3546f8dd4df0aadcc374b2b1e811f456bdea741dc53b94ac22f11"
+metafile = true
+
+[[files]]
+file = "mods/borderless-mining.pw.toml"
+hash = "e8ccaa2816d767744121e3240a30bb061f8bba8c9274909017832d2f8576ce50"
 metafile = true
 
 [[files]]
@@ -2615,6 +2634,11 @@ hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
 
 [[files]]
+file = "mods/led.pw.toml"
+hash = "c922a4dff188cb5be54bb1fc11d348ecc7ab66d7f18924038f6d2657e2ec73b6"
+metafile = true
+
+[[files]]
 file = "mods/ledger.pw.toml"
 hash = "cbd6b97dfc49090b18480f43eeef4401144006ed406110f32fb1126d47a21f11"
 metafile = true
@@ -2657,6 +2681,11 @@ metafile = true
 [[files]]
 file = "mods/mega.pw.toml"
 hash = "62305b89ee61073e27819b7cb7d2fa194d2948667f94c9cc39bba0f91b0c015d"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "4716789e4a806c1cabcef27e67150215edb4c3d737e9a87d90f2f615d6c196cd"
 metafile = true
 
 [[files]]
@@ -2792,6 +2821,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures-fabric.pw.toml"
+hash = "af0e46a40167fe12c8621a6cbd0281d2e6168e95507c5e94fd3d4eaa88f8d84e"
 metafile = true
 
 [[files]]
