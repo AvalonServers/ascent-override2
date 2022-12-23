@@ -1,0 +1,9 @@
+{
+  "material": "minecraft:end_stone_bricks",
+  "additional_materials": [
+    "immersive_weathering:cracked_end_stone_bricks"
+  ],
+  "tier": 3,
+  "fuel_capacity": 192000,
+  "speed_multiplier": 2
+}

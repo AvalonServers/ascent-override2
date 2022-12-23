@@ -1,0 +1,11 @@
+{
+  "material": "minecraft:bricks",
+  "additional_materials": [
+    "immersive_weathering:cracked_bricks",
+    "immersive_weathering:mossy_bricks",
+    "twigs:chiseled_bricks",
+    "twigs:cracked_bricks",
+    "twigs:mossy_bricks"
+  ],
+  "tier": 1
+}

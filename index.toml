@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "c03304a1e8c9191cc01e37ed93b86694b367fb567a261b6cdbcea89bb65bfce7"
+hash = "eb18ddda2aa5eb96753ccf52df5d66f6463fa596f6369f86e86c650676dc5707"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -53,6 +53,10 @@ file = "config/appliedenergistics2/common.json"
 hash = "dacf0c5e2ba774bf0f60c8ad4a16a34db738bf4a8977f37bdbf2b6b9a496cc44"
 
 [[files]]
+file = "config/architects_palette.json5"
+hash = "cd0364f73254f78e6fcb4d716bc9669d641035a1f90fd84a8985e1639fbb751e"
+
+[[files]]
 file = "config/artis-recrafted.json5"
 hash = "257c1be96ae69f4b01c2c69bdb6d78605f59175819fb007d0bf245bf48444c4a"
 
@@ -63,6 +67,10 @@ hash = "9daac623b33ef082967773799c4df208438dbd43248500276e37d2f374ea3acf"
 [[files]]
 file = "config/authme.json5"
 hash = "abc3e0e4c6c3120dcbc22fecfae1966d0a040aa9464913fd2ff3aa5b1f606023"
+
+[[files]]
+file = "config/bcc.json"
+hash = "8842719c0d5e2ed5b342bbb9d5cfc47ace5dbf517d1bfef176161236e5da369a"
 
 [[files]]
 file = "config/beenfo.json"
@@ -105,6 +113,10 @@ file = "config/carpet/default_carpet.conf"
 hash = "a1841d4e9d82126db89b205ac363478a3e3c3d1017e721a1b13a85a421325380"
 
 [[files]]
+file = "config/carryon-common.json"
+hash = "2e008fbe47146e9492dc2de77a9c279bee8ec394defa7ffb993c249b2a190ddb"
+
+[[files]]
 file = "config/celestria.json"
 hash = "f26a0c2df1c31e7ba070d97c36ed01ebe5164739e917381b41678796e6f0fb4c"
 
@@ -137,6 +149,10 @@ file = "config/computercraft-client.toml"
 hash = "20772df2e321ec660a746f6d1a11395b62679c6301c84bacacb2f51ab02a9db1"
 
 [[files]]
+file = "config/connectiblechains.toml"
+hash = "a78c8a42b2fd624f6c51cd6a68f20b69ea3f540a505e838f5b33a782ea01b55f"
+
+[[files]]
 file = "config/connectivity.json"
 hash = "a17f84d0c9a37e9ea618679133dc4498c270753517e12974cb9e07611a716201"
 
@@ -147,6 +163,10 @@ hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
 [[files]]
 file = "config/couplings.toml"
 hash = "3ef046267c814eadadcdd3e065251fb682a530f62321bbb53588ea94b96f4371"
+
+[[files]]
+file = "config/craftingtweaks.toml"
+hash = "8830d327f96393c7952f119a69679025a5f1f21cffa278356503021d55d861b2"
 
 [[files]]
 file = "config/create-client.toml"
@@ -441,6 +461,10 @@ file = "config/libnetworkstack.txt"
 hash = "6cffb9f5852113311346ef545fa463584d31970b93e05b11880f54ed40a881ca"
 
 [[files]]
+file = "config/lightoverlay.properties"
+hash = "88372e9eee5d21754b83cf7ce9362d18d37c620ce6c12fd3c12102d058f3dd4b"
+
+[[files]]
 file = "config/litematica.json"
 hash = "86969a14ea6fe244a1b7f070c948498f6e17da042e50d490faeb4cbaf966245d"
 
@@ -463,6 +487,14 @@ hash = "41b63f8dd471047e1e5d4ffdc3ef2802f7a766c8408b59be050b529576d404e2"
 [[files]]
 file = "config/malilib.json"
 hash = "a4976d6a5206a02939ee0ad164b06eb0bd0530dc5ffff42c9372327d1f5e5b64"
+
+[[files]]
+file = "config/malum.json"
+hash = "8afe863bc12983bfda0464f27efcc2697187b95a8cda1f50f8d4b203e4673b43"
+
+[[files]]
+file = "config/microdurability.json5"
+hash = "515c588753b26bef5b593b8552bd81ad5daba8aa3856b372ccd744da36da868c"
 
 [[files]]
 file = "config/midnightcontrols.json"
@@ -499,6 +531,46 @@ hash = "8deed1a37e1d8b3741c5059ec8351ab8855ea44614ae22b2c377f9d3c7b34aaf"
 [[files]]
 file = "config/ok_zoomer/config.toml"
 hash = "2c2dc382c687c3322b3d30870e8c004fc7aeee49d8ed51e99ccb3be202860aad"
+
+[[files]]
+file = "config/openloader/data/default/data/ad_astra/recipes/recipes/astrodux.json"
+hash = "181cf82149e00b3fa219e7e2bbbd6f09769abb38474c74c9e8cf8493f6d5982a"
+
+[[files]]
+file = "config/openloader/data/default/data/alloy_forgery/alloy_forges/bricks_forge.json"
+hash = "dfa7ef6c76fb4cef7776e83527dce0a146dea0fe5360c8279032909ef24b0252"
+
+[[files]]
+file = "config/openloader/data/default/data/alloy_forgery/alloy_forges/deepslate_bricks_forge.json"
+hash = "4086b0565dd00f1f0db9aedc72396ab9b19eb96e0ec641124a7b1ab2ce6124dc"
+
+[[files]]
+file = "config/openloader/data/default/data/alloy_forgery/alloy_forges/end_stone_bricks_forge.json"
+hash = "d983f815e9e4c9c14f59730e3ae4423cd4260b69fcb5d0d4875774c236a596d2"
+
+[[files]]
+file = "config/openloader/data/default/data/alloy_forgery/alloy_forges/polished_blackstone_forge.json"
+hash = "f0b2c0d370942bfdbd9c3450ac11db8b8602f30d4fc32c76d620f9c5b15e06b5"
+
+[[files]]
+file = "config/openloader/data/default/data/alloy_forgery/alloy_forges/prismarine_bricks_forge.json"
+hash = "b7b479bd9c467cf3815bb03c03820bfa787da842ae9659f0a7fd613539c123db"
+
+[[files]]
+file = "config/openloader/data/default/data/alloy_forgery/alloy_forges/stone_bricks_forge.json"
+hash = "afdaba91042840ef9ca8f2a2d4e1c92b6cd8d5ca84f56df444ee2a7af4b18ec8"
+
+[[files]]
+file = "config/openloader/data/default/data/alloy_forgery/recipes/compat/alloys/steel_from_ingots.json"
+hash = "1d4acc2e3aa5a871ddab8bbaa29da617d4dcb9e34522f0e3a44fae7bbc47b2c2"
+
+[[files]]
+file = "config/openloader/data/default/data/alloy_forgery/recipes/compat/alloys/steel_from_ores.json"
+hash = "5546a0ea5827743d4decf119e77faf7eae56d7f7681cf223803cd62aeea996df"
+
+[[files]]
+file = "config/openloader/data/default/data/alloy_forgery/recipes/compat/alloys/steel_from_raw_ores.json"
+hash = "531336854e907263a30363b89a29b8a31dd4a4ea701b15191d42d6146121be1d"
 
 [[files]]
 file = "config/openloader/data/default/data/origins/origin_layers/origin.json"
@@ -551,10 +623,6 @@ hash = "cc08b4a664bd80b8de39a7cf70622154e96c1f3155da6af07eb77dd243deb07f"
 [[files]]
 file = "config/openloader/resources/override-base/assets/.mcassetsroot"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/openloader/resources/override-base/assets/inventorysorter/textures/gui/button.png"
-hash = "6527091cc2901fc3019d88f811d8ae0084064e3976b72eff62291776a81bfee2"
 
 [[files]]
 file = "config/openloader/resources/override-base/assets/minecraft/lang/en_us.lang"
@@ -657,10 +725,6 @@ file = "config/openloader/resources/override-base/assets/minecraft/textures/pain
 hash = "676dd8fe68173a0590d332ecd6d3368d1bd0b67c08c3db9755a31f095f95551b"
 
 [[files]]
-file = "config/openloader/resources/override-base/assets/patchouli/textures/gui/inventory_button.png"
-hash = "333d3c91c63b9b6fae6965b7cd5269df21fadc969917148f103778b522ea6c97"
-
-[[files]]
 file = "config/openloader/resources/override-base/assets/trashslot/textures/gui/slot.png"
 hash = "6f26aebe22f67eb67cba086fcb70e19be38fb2bc820f09aaf2c61579beac7605"
 
@@ -679,14 +743,6 @@ hash = "a09acd8e7fac3d96c0331fe62e7e7f565606d447dca66b8f8e81680cfa188f60"
 [[files]]
 file = "config/openloader/resources/override-base/pack.png"
 hash = "cc08b4a664bd80b8de39a7cf70622154e96c1f3155da6af07eb77dd243deb07f"
-
-[[files]]
-file = "config/openloader/resources/override-dark/assets/cloth-config2/LICENSE.md"
-hash = "c084d3d0560c3731716fc2f2d7993647953810bba5d880e2aa2290d1c66d18d6"
-
-[[files]]
-file = "config/openloader/resources/override-dark/assets/cloth-config2/README.md"
-hash = "c2fc9f5fd65cedf935a0cabbc985d6640dafe6bf0d1802728045bb2c1a2cc1c2"
 
 [[files]]
 file = "config/openloader/resources/override-dark/assets/cloth-config2/textures/gui/cloth_config.png"
@@ -819,6 +875,10 @@ hash = "8017e16c49bb15df76fb8147a59fbaf528e2e6ed6a505d41d7602334a9388dee"
 [[files]]
 file = "config/openloader/resources/override-dark/assets/farmersdelight/textures/item/empty_container_slot_bowl.png"
 hash = "50d2a9e30f92da6b1b391fafb93fa46dfd7af7483f109c1ee5f6253f5c95c921"
+
+[[files]]
+file = "config/openloader/resources/override-dark/assets/inventorysorter/textures/gui/button.png"
+hash = "6527091cc2901fc3019d88f811d8ae0084064e3976b72eff62291776a81bfee2"
 
 [[files]]
 file = "config/openloader/resources/override-dark/assets/ironchest/LICENSE"
@@ -1233,6 +1293,10 @@ file = "config/openloader/resources/override-dark/assets/minecraft/textures/item
 hash = "d65740f1c055985cc229c5682dcb56f61cfd3842d8c6df94748ce6a40189fbc2"
 
 [[files]]
+file = "config/openloader/resources/override-dark/assets/patchouli/textures/gui/inventory_button.png"
+hash = "333d3c91c63b9b6fae6965b7cd5269df21fadc969917148f103778b522ea6c97"
+
+[[files]]
 file = "config/openloader/resources/override-dark/assets/trinkets/LICENSE.md"
 hash = "a4c2961aadbf1ab74febe2598815da5dc0687a987490d610ea3a2af0ecc3ebfa"
 
@@ -1490,7 +1554,7 @@ hash = "e9d95c9d11d7a48b95e085a8001ce0c7252e34abe6a7d1fae4a219bebf1f24e1"
 
 [[files]]
 file = "config/twilightforest-common.toml"
-hash = "8a6ea65f10e4a23496d97939f5e245f53eb63f7a6d2f4e3a0f9ddb12dc3a0f1c"
+hash = "b96b26f7ba49c30cad6f4367cf1356c43e98bb5a272daf8132003b51eb81d6ec"
 
 [[files]]
 file = "config/universal-graves.json"
@@ -2022,7 +2086,7 @@ hash = "b78bbb81b8283d5ae7bd585a031ac5c6d930b05e583f9651836a9edba0b0a90b"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "05cb738f10afe5b73feb06fb86d739de93ed5d2e70dfbce52b4de47575e92be6"
+hash = "034ba97df297c41831a88d10ca56965108bb4dfa476ecaa8b33f748ba3576863"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
@@ -2096,6 +2160,11 @@ metafile = true
 [[files]]
 file = "mods/arch-ex.pw.toml"
 hash = "f0e9dfb7405e8c7667a670f398a644ec17ac044dd5404ebe9cbf5aa5bfb907c4"
+metafile = true
+
+[[files]]
+file = "mods/architects-palette-fabric.pw.toml"
+hash = "5d7e323c56fe38f5cbab8e6ebcfb157e7f42c37b9acbaf474f1d21766802157f"
 metafile = true
 
 [[files]]
@@ -2239,6 +2308,11 @@ hash = "3d89448c7689702ee772d9d1a5119dc7f47facdf8adf0d780804fda257d6671a"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "ef91f2ecf97c480897049a7bf30bf605fb3a4af609bcfed2060b61ecb3f61c3f"
+metafile = true
+
+[[files]]
 file = "mods/catwalks-inc.pw.toml"
 hash = "c0d1ff66a10e5853ae48c6021bbe4709461f451e71494f2f806004ece7b2965b"
 metafile = true
@@ -2289,6 +2363,11 @@ hash = "e5f39c4532d249a052f38f86d5ed31decda80e191f42ca1fa5b1b2ceefcd6b02"
 metafile = true
 
 [[files]]
+file = "mods/connectible_chains.pw.toml"
+hash = "3bb5d79ae78bcfa2fcb08f3852c4c1ac1893569ac75ccc2e9131d9b17dc61f5c"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "3cbe3d523b39667928fcc34f71651b0e581e5c541dd5ecf17228464770466bc5"
 metafile = true
@@ -2306,6 +2385,11 @@ metafile = true
 [[files]]
 file = "mods/couplings.pw.toml"
 hash = "e9959b342401ffdb0ddae4e9fd151b97a9cb94624d4658daafdac0c17d8bc262"
+metafile = true
+
+[[files]]
+file = "mods/crafting-tweaks.pw.toml"
+hash = "5f14b1510601ceb0a84065ddfb980a18a0e075f2db7ff2baebe8c777fd7860e1"
 metafile = true
 
 [[files]]
@@ -2376,6 +2460,11 @@ metafile = true
 [[files]]
 file = "mods/discord4fabric.pw.toml"
 hash = "251dc5b300f7bfe3d609c2bc693988cb079727d572e17fb6129a1ae3517daf69"
+metafile = true
+
+[[files]]
+file = "mods/dramatic-doors.pw.toml"
+hash = "d18222d19e161fecd61a8182d6dd13c561462e67fcd551ecc555b48fdf77794b"
 metafile = true
 
 [[files]]
@@ -2524,6 +2613,11 @@ hash = "d5600601d6c7d5b87f2ee64034c6f7bde44778e163169e444d9aa438eaa1f86a"
 metafile = true
 
 [[files]]
+file = "mods/half-doors.pw.toml"
+hash = "fd34910c7292b2b48bb57c2b348c968cf5ea58f7c19683bf662ef801d167e233"
+metafile = true
+
+[[files]]
 file = "mods/headindex.pw.toml"
 hash = "e02618f0d2b2c773602da8382dde5d0de34c05f934035654ec9989bb282416c0"
 metafile = true
@@ -2644,6 +2738,11 @@ hash = "cbd6b97dfc49090b18480f43eeef4401144006ed406110f32fb1126d47a21f11"
 metafile = true
 
 [[files]]
+file = "mods/light-overlay.pw.toml"
+hash = "54037e4122f477f500dc3002b2f0ab9cda99d0fceb70da1d163be1afc99ec060"
+metafile = true
+
+[[files]]
 file = "mods/litematica.pw.toml"
 hash = "c9914628f328f6a137621cf27068aa0742e57cfdf1268a363c21c2aef63ab339"
 metafile = true
@@ -2664,6 +2763,51 @@ hash = "e0da679f53c6aca232296659def738666696cae1de4b7125753f3eb9cf2fd504"
 metafile = true
 
 [[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "46abacb059a2af9fe270f2be6c714ac7d5eeee71b4a9fa2f20ac047438a12cab"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "27e73e63118d0afa759317328e8d54bc1512bb6ed69ad96b6dca9ed472aba43f"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "b16dd6d03444954164f412bdbbf33c23e88a28daf83fa4628027c6b3e167107a"
+metafile = true
+
+[[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "5cdf721f41fbc4371c3cfd50d74016d9bb0f37bf4f1089e2aaa0fe0dd4ec130b"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paintings.pw.toml"
+hash = "f2b787b718283a97f997fb0138a04a790bedf65f6d7edfd30728da9dda692e5a"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paths-and-pavings.pw.toml"
+hash = "867d03dd010e40e9391cd6a9a314a0accf77a3798510a4bcc9391269f451e6b6"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "cabcb70039cecbc8489c034c4b8379c8766c49e175aa4464ccb5612fb17c7e78"
+metafile = true
+
+[[files]]
+file = "mods/macaws-trapdoors.pw.toml"
+hash = "50d92251e3359b1d63e1ddcfeff1625ba4159a408b246cb55b4af4aa213a61df"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "64705f3ba3bb3fb6beb30861c916f39c9c63ef4e6f83d9fac58063c55370cfdc"
+metafile = true
+
+[[files]]
 file = "mods/main-menu-credits.pw.toml"
 hash = "1527caee4fc4f26b525a41a95dd07dae21ab3c8d2c391237c79396abf7e9b2d7"
 metafile = true
@@ -2671,6 +2815,11 @@ metafile = true
 [[files]]
 file = "mods/malilib.pw.toml"
 hash = "3926d859126491c673d921c3f3f93316766689ff0694f83d82255ec4776d3c74"
+metafile = true
+
+[[files]]
+file = "mods/malum-quilt.pw.toml"
+hash = "4414a7bdb83f3f1bc313baf0b1893bf0ec716e2efdf738e4b9977b7ed792b993"
 metafile = true
 
 [[files]]
@@ -2696,6 +2845,11 @@ metafile = true
 [[files]]
 file = "mods/merequester.pw.toml"
 hash = "4426ee463eb7708c9c19cce376b0c0eca86a08b8551336e3d6185cdc34c813e1"
+metafile = true
+
+[[files]]
+file = "mods/microdurability.pw.toml"
+hash = "2c44f182a7875bcb8447c004078c79c4f7bad9ec3ccfe63586f2127f1fa74a58"
 metafile = true
 
 [[files]]
@@ -2726,6 +2880,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "09eb7db3ca7778d91ad66845e41b6b4814655fe375a05d4a69528c74b4f1c8af"
+metafile = true
+
+[[files]]
+file = "mods/more-music-discs.pw.toml"
+hash = "e5ad645b18aade38d7c8a3047ef9a29d2a14cf472141fd80be8e589c8985b3c9"
 metafile = true
 
 [[files]]
@@ -2891,6 +3050,11 @@ metafile = true
 [[files]]
 file = "mods/skylands.pw.toml"
 hash = "d6cfedf5ef300eab568973523271b39e5919a26d8a8b3794a1e6a540aca82736"
+metafile = true
+
+[[files]]
+file = "mods/slotlock.pw.toml"
+hash = "2aa075d20c422da27c386dd922b82a645cd4812abcfae930eca614814e656e0b"
 metafile = true
 
 [[files]]

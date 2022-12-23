@@ -1,0 +1,13 @@
+name = "SlotLock"
+filename = "slotlock-1.1.1-BETA+1.19.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/J267enD3/versions/a3lruFnZ/slotlock-1.1.1-BETA%2B1.19.jar"
+hash-format = "sha1"
+hash = "183d44f8db3a78c131aca4f2a6fcc0bab64c5582"
+
+[update]
+[update.modrinth]
+mod-id = "J267enD3"
+version = "a3lruFnZ"

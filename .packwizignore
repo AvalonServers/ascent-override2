@@ -1,2 +1,4 @@
-build
+/build
+/data
+/resources
 .envrc
