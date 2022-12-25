@@ -70,7 +70,7 @@ hash = "abc3e0e4c6c3120dcbc22fecfae1966d0a040aa9464913fd2ff3aa5b1f606023"
 
 [[files]]
 file = "config/bcc.json"
-hash = "8842719c0d5e2ed5b342bbb9d5cfc47ace5dbf517d1bfef176161236e5da369a"
+hash = "3f3325da023bde9ac20bfe9b537b3e996dfa188e6c47a8f82b119643fdcfb225"
 
 [[files]]
 file = "config/beenfo.json"
@@ -2308,11 +2308,6 @@ hash = "3d89448c7689702ee772d9d1a5119dc7f47facdf8adf0d780804fda257d6671a"
 metafile = true
 
 [[files]]
-file = "mods/carry-on.pw.toml"
-hash = "ef91f2ecf97c480897049a7bf30bf605fb3a4af609bcfed2060b61ecb3f61c3f"
-metafile = true
-
-[[files]]
 file = "mods/catwalks-inc.pw.toml"
 hash = "c0d1ff66a10e5853ae48c6021bbe4709461f451e71494f2f806004ece7b2965b"
 metafile = true
@@ -2880,11 +2875,6 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "09eb7db3ca7778d91ad66845e41b6b4814655fe375a05d4a69528c74b4f1c8af"
-metafile = true
-
-[[files]]
-file = "mods/more-music-discs.pw.toml"
-hash = "e5ad645b18aade38d7c8a3047ef9a29d2a14cf472141fd80be8e589c8985b3c9"
 metafile = true
 
 [[files]]
