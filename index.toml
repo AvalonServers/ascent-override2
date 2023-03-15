@@ -70,7 +70,7 @@ hash = "abc3e0e4c6c3120dcbc22fecfae1966d0a040aa9464913fd2ff3aa5b1f606023"
 
 [[files]]
 file = "config/bcc.json"
-hash = "3f3325da023bde9ac20bfe9b537b3e996dfa188e6c47a8f82b119643fdcfb225"
+hash = "9b3f7bf9d684956a0682693890a0e06dcb8ae9c6e01fb42d4b3fd7e19f1d57b0"
 
 [[files]]
 file = "config/beenfo.json"
@@ -1642,7 +1642,7 @@ hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
 file = "kubejs/client_scripts/script.js"
-hash = "f7534f18e0e6a728766a0f7464a58198c8995a2f330d8767737f71575da38693"
+hash = "aad645d28b187a30cf412051179b7756bc5696a7743ba4d9d86cc3affd18c2e9"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -3205,6 +3205,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "afc5f3bf4cae41e848070a109287bc6607c2f46045fc452da5d43189358adcb6"
+metafile = true
+
+[[files]]
+file = "mods/yttr.pw.toml"
+hash = "74257a39c616938aed0b5764b244780ff7aef3fd6f7b535a9603f9d9f4a6dded"
 metafile = true
 
 [[files]]
